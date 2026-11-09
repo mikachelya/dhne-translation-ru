@@ -1,0 +1,1576 @@
+en
+Are you sure?
+yes
+really?
+chill vibes
+the real game begins
+something smells fishy
+Shallows
+Chill Vibes.\nShort run, extra bust limit, capped rewards.
+the friendliest pond around
+The Bay
+Smells Fishy
+come for the fish, stay for the fish
+Lands Adrift
+Real game begins.
+you'll never want to leave
+Decide how deep you can go.
+please mind the gap
+The End
+This is it.
+thank you for visiting
+never born but alive
+tries her best
+likes watching you bust
+just a dude
+gets away with it
+god stronger warrior
+woof
+woof?
+he's so cool
+slimy
+she's doing well for herself
+Plasticine
+like putty in your hands\ncharacter customisation option
+Bets
+bet ¤ to increase difficulty and reward
+Soul Wager
+bet your save file for the ultimate reward
+Anais
+Biblically Accurate
+real angels dont have wings
+Kill what you love
+Business Fish
+Promotion
+dont let us down
+You're playing shallows?
+This ain't it
+Take me into deep waters baby.
+Tuff' day in fish business
+Cool Fish
+Level 2
+level up
+Level 3
+level up more
+Oh, this jacket?\nIt was 3000¥
+It's from Japan yeah
+Dog
+Fancy Fancy
+unworthy
+fall back
+begone
+soul
+wager your soul
+i hope you are feeling lucky
+gold
+but you have nothing left
+but you have earned nothing
+but you need ${stars} ¤
+gold ¤
+wager all 
+wager 
+and 
+wager a gold ¤
+you always were my bravest child
+God?
+i demand commitment
+show me what you have earned
+give me everything
+do you have what it takes?
+you are never getting out of here
+i always believed in you
+Guy
+Eyes Wide Open
+see the stars
+Reach level 7 to break free!
+Reach level 10 to break free!
+Keep riding?
+I'll revive you for $cost ¤ and one passive item
+Yes
+Live your truth
+Ride on
+Hot Dawg
+King Foetus
+Foetus 2
+development
+Reach level 7 to escape!
+goo goo gaa gaa
+Reach level 10 to escape!
+go more?
+revive for $cost ¤ and 1 max bust
+glob gob
+Liz
+Liz 2
+Halo
+glow up
+Hey, my love
+Remember, ${count} levels and you're out of here!
+Ah well
+You'll get it next time!
+...Want to keep going?
+I'll revive you for $cost ¤ and one die
+Your loss :)
+Hope it's worth it!
+Srop M.
+Saimi
+Moi
+Get past level ${count}, and you're free.
+Keep going keep going
+I'll revive you for $cost ¤ and difficulty increase.
+Lame :)
+Let's Go!
+Shirin
+Oh. You’re mine now.
+I’ll let you go if you reach level 7.
+I’ll let you go if you reach level 10.
+Feeling lucky?
+I'll let you toss a coin to revive you for $cost ¤
+RIP
+Покойся с миром"
+Bad luck...
+Good luck!
+Tooth Fairy
+Reach level 7 and I'll leave your teeth alone.
+Reach level 10 and I'll leave your teeth alone.
+Hi! Welcome!
+You're dead!
+Or asleep!
+... Either way, you won't remember this :)
+Now let's play.\nRoll the dice.
+Good. You gained some points.
+They're not safe until you BANK them.
+You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.
+Bigger combos give you exponentially bigger rewards.
+<- See what combos are available up here
+Roll blank dice and keep going!
+Oh also, you can hold and drag Left Click to box select
+Each time you Score more Combos in a Turn, you gain Momentum
+Momentum gives you extra Points and Mult on your next Score
+Your momentum is reset to zero at the start of each Turn.
+You've hit the target!
+BANK your Points to complete the level.
+You made it through the first level!
+Between levels, you'll visit The Shop, buy Trinkets, Snacks and Spells.\nAll the fun stuff.
+combo
+That's a ${combo_label}!
+Select and score it!
+Nice, those Points are safe now.
+BANK refilled your Bust meter.
+You have $TURNS BANKS left, so make sure you only BANK when you need to!
+Red sides are BUST! If you roll too many, you will WIPE!
+<- BUST meter here
+One more BUST and you'll WIPE!
+Consider BANKing your points now to keep them safe.
+Now that you accumulated some points try banking!
+Each time you BANK, you use up a Turn.
+When you run out of Turns, the game ends.
+See turns left here ->
+<- Click here to bank
+You rolled too many BUSTs!
+That's a WIPE! All unbanked Points gone!
+Don't worry, it happens.
+Next time you should BANK before that happens :)
+Ah. Yeah...
+Instant WIPE
+When ALL DICE you rolled roll BUST, your Turn is over straight away.
+Rolling a single die makes that very likely, but it can happen with any roll!
+This is your last turn.
+You have to go all in now, no point in BANKing early.
+You can still do it!
+Well, you failed the tutorial.
+I'll bring you back this time.
+Be better.
+Welp.
+Pretty good for the first go.
+I didn't explain it all but you're a smart cookie.
+You can figure out the rest.
+I'll see you in the real game.
+Remember, luck helps. Judgement matters more.
+Wizard
+Wizard 2
+Wizard 3
+Get to level 7, and you're free.
+Get to level 10, and you're free.
+...Want to see a magic trick?
+Boo :)
+Tada!
+bust
+wipe
+instant
+turn
+turns
+bank
+points
+mult
+bonus
+debust
+pig
+power
+golden
+coin
+coins
+shield
+skip
+mirror
+cracked
+hardy
+doom
+negative
+stuck
+empty
+clear
+Normal
+Pixel
+hit that shit
+at least the tooth fairy will come
+i haven't lost my baby teeth yet
+because i don't have baby teeth
+because i am god
+being late to the dentist is always a bit risky
+have you been brushing?
+i don't have to brush my teeth
+hit da bricks
+honestly
+that wasn't very stonks of you
+but it was brave
+lets hit that shit
+wheels can't take you away from me
+pretty sick whip tho ngl
+throw that shit
+what a good boy
+i am neither good nor bad
+it was very brave of you to come back
+again
+and i am god
+have you looked into a mirror recently?
+what do you see?
+i see my bravest child
+absolutely hit that shit
+finally some good fucking food
+nope nope nope
+how did you do?
+in the test, i mean
+we all pass\nin one way or another
+eventually
+i am your salvation
+you are not drowning
+You finished the Shallows!
+Unlock the next Depth from Star Guts for a bigger challenge.
+so the tooth fairy smokes now
+i knew it
+i know everything
+Bad Teeth: ${count}/${limit}
+inactive
+score
+deselect
+select
+Score
+Scoring adds points and clears all dice in the combo
+Select All
+Select your dice to score them or roll them
+Deselect
+Deselect everything to make a new selection
+blank
+Roll
+Roll just the selected dice
+Roll Blank
+Roll all blank dice
+Roll All
+Re-roll all your dice
+any bust:\ninstant wipe:
+no combo
+Cycle Baby
+Cycle!
+Bust
+Bonus\n+100 Points when scored
+Mult\n+2 Mult when scored
+Debust\n-1 Bust and -1 ♥ when scored
+Pig\nReroll for instant points
+Negative\n-50 Points when scored
+Power\nRecharge power when scored
+Stuck\nCan't be rerolled
+Golden\n+1¥ when scored
+Skip\nRolls to the next value
+Mirror\nCopies value of next clicked die
+Cracked\n -1 ♥ when rolled
+Empty\nCan't be rolled
+Hardy\n+1 ♥ when rolled
+Doom\n-3♥ when rolled
+colours
+pattern
+CRACK
+puke
+Purged +
+pukes
+chomp
+permanent
+goop
+sad
+cheer
+$value\n$effect
+impatient
+Impatient
+Nudges up everytime anything is rolled.
+ghost
+Disappears after being scored.
+cycle
+Cycle
+Rolls to its next value.\nDamage on score.
+Scores x
+Scores multiple times.
+♥
+Dice live forever
+Dice are mortal
+Swap Dice
+Swap
+swap
+Skip
+give
+take
+Die Baby
+Dupe Baby
+Duplicated!
+VICTORY
+FIGHT
+Goal Reached
+progress
+GOAL REACHED
+${to_go} TO GO
+Eye Baby
+eye
+Puked 
+eye!
+eyes!
+fish border
+fish
+Cool Fish Available
+bounds
+float
+near
+die
+body
+CHOOSE
+food
+spell
+reroll %d ¤
+clouds
+net
+multiply
+edible
+a to use spells
+right click to use spells
+drag snacks over rolled dice
+anim
+particle
+Use
+Power recharges each turn\nSelect a die with Left Click then press this button to use it
+TAB: ${total} ¥
+Dice $count/$limit
+Trinkets $count/$limit
+Actives $count/$limit
+$value¥
+draggables
+cant sell eternal
+sell cursed
+too many dice
+too many trinkets
+pay up
+take change
+bye
+Reroll - ${current_cost}¥
+slot
+spin
+shadow
+tape
+waiting
+- web
+DICE HAVE\nNO EYES
+DICE HAVE\nNÕ EYES
+DICE HAVE\nNÖ EYES
+DEMO
+Basic Spells
+beginner magic
+Basic Passives
+situational benefits
+Basic Combos
+upgrade your faves
+Basic Snacks
+tasty treats for hungry dice
+Basic Quests
+Parenting
+life comes at you fast
+Hold
+HOLD!!!
+Numerology
+special numbers are special
+More Spells
+advanced magic
+More Snacks
+get some variety in your diet
+Diet Culture
+its real bad for you
+All In
+for when youve got nothing to lose
+Lover
+everything to do with pairs
+Multipliers
+make number go bigger
+Maximalist
+more dice more better
+Self Control
+as if
+Pain
+it hurts but in a good way
+Comeback
+you've still got plenty left
+Momentum
+chain combos forever
+Workaholic
+put your power back to work
+Mind Expansion
+gigabrained complicated nonsense
+Actualisation
+get actualised
+Rich Man
+money money money
+Degenerate
+as luck would have it
+Biscuit
+worth risking it for
+Send It
+when in doubt go flat out
+Ghost
+pretty spooky
+Shield
+bust protection
+Slow N Steady
+gets you nowhere
+Patience
+a virtue
+Straights
+they're at it again
+Dumplings
+yum yum in my tum
+Pig
+get greedy
+Numeracy
+make the numbers behave
+Shop Expansion
+more items more good
+Mega Shop
+more items more items more items
+More Funky Dice
+Special Side Effects in shops!\nMult, Debust, Power and Cracked
+Even More Dice
+Special Side Effects in shops!\nSkip, Mirror, Hardy and Doom
+Fish Trinkets
+from the sea
+Sardine Magic
+abracadabra
+Faves
+play with your favourites
+Something fell from the sky
+Power Limit Up
+Power Limit +1
+Power Limit +1!
+Trinket Limit Up
+Trinket Limit +1
+Trinket Limit +1!
+Dice limit up
+Dice Limit +1
+Dice Limit +1!
+Coin Burst
++300 Points per coin you own
+No coins!
+Ghost Jar
+Spawn 3 ghost dice
+cast
+Bust Shield
+Bust Shield On
+Shield!
+Uplift
+Nudge all dice +1 pip (no loop)
++1 all
+Downshift
+All dice -1 pip (no loop)
+-1 all
+Clamp High
+All dice above 4 become 4
+Clamp 4
+Money Reroll
+Reroll all dice, gain +1¥ per 6 rolled
++1¥
+Unlucky
+Money Reroll II
+Reroll all dice, gain +2¥ per 1 rolled
++2¥
+Piggy Bank
+Gain 1¥ per Momentum and clear it
+No momentum!
++${amount}¥
+GOTTA GO FAST
+Momentum x2
+x2 momentum
+Peek
+Gain 1¥ per die showing 1
+No 1s!
+Peek II
+Gain 1¥ per die showing 3
+No 3s!
+-1 Bust per die showing 1
+Scratchie
+Gain 0-3 ¥
+Nothing!
+Scratchie II
+1 in 3 chance to win 6 ¥
++6¥!
+No luck
+Scratchie III
+Gain 1-4 ¥
+Copycat
+Repeat the last spell used
+Nothing to copy!
+Copy!
+Repeat the last spell used, twice
+Heal
+All dice +1 ♥
++1 ♥
+Healed!
+Clutch
+Hold your next hand
+Hold!
+Snack Bag
+Spawn 2-3 random snack items
+open
+${amount} foods!
+Gambling Bag
+Send it
+${amount} chances!
+Citrus Bag
+Spawn 5 citrus slices
+Citrus!
+Butchers Bag
+Spawn 3 pig snacks
+Rare find!
+Meet!
+Dumpling Bag
+Spawn 3 random dumplings
+3 dumplings!
+Caffine Pill
+Make a die impatient
+Impatient!
+Tab
+Make a die cycle
+Cycling!
+Bolero
+Add 3 Bonus sides
+Bonus Sides Added
+Eggplant
+Add 3 Mult sides
+Mult Sides Added
+Mangosteen
+Add a Mult side
+Har Gow
+Add a Golden side
+Golden side Added
+Pork Chop
+Add 4 Pig sides
+Pig Sides Added
+Hubba Bubba
+Add a Debust side
+Debust Side Added
+Ritalin
+Add a Power side
+Power Side Added
+Mochi
+Add 5 Stuck sides
+Stuck Sides Added
+Bacon
+Add 1 Pig side
+Pig Side Added
+Add 1 Skip side
+Skip Side Added
+Black Eyed Pea
+Block 1s for the next roll
+Grape
+Add 1 Bonus side
+Bonus Side Added
+pieróg z kapusto
++1 ♥!
+Crack Candy
+Add 2 Power sides
+Power Sides Added
+Lemon
+Nudge this die +1 pip
++1 pip!
+Lime
+Nudge this die -1 pip
+-1 pip!
+Pomelo
+Flip this die to its opposite face
+Flipped!
+Orange
+Nudge all other dice one pip towards this die's value
+Pull!
+Tumor
+Spawn a ghost clone of this die
+Cloned!
+Eye
+Add 1 pip to the shown side
+Bonus Puke
+Mult Puke
+Add 1 Mult side
+Mult Side Added
+Debust Puke
+Add 1 Debust side
+Pig Puke
+Power Puke
+Add 1 Power side
+Stuck Puke
+Add 1 Stuck side
+Stuck Side Added
+Money Puke
+Add 1 Golden side
+Golden Side Added
+Skip Puke
+Mirror Puke
+Add 1 Mirror side
+Mirror Side Added
+Cracked Puke
+Add 1 Cracked side
+Cracked Side Added
+Hardy Puke
+Add 1 Hardy side
+Hardy Side Added
+Doom Puke
+Add 1 Doom side
+Doom Side Added
+Bust Puke
+Add 1 Bust side
+Bust Side Added
+Finger
+Puke a special effect out
+Emetique (TM)
+Puke all special effects out
+Pig Run
+Pig sides score +${dynamic} points, +5 per pig rerolled this turn. Resets each turn.
+pig bonus +${amount}!
+Thurible
++${dynamic} Mult, +1 Mult each time a die is destroyed
++1 mult
+Aging Baby
++${dynamic} Points, -10 each time it activates
+Growing Baby
++${dynamic} Points, +1 for each die rolled
++${amount} pts!
+Bleeding Baby
++${dynamic} Mult from busts, resets on wipe
+Grudge Baby
++${dynamic} Mult, -1 Mult each time you bank
+-1 mult
+Glass Gecko
++10 Mult, destroyed on Bust
+Belly
++${dynamic} Mult, gains +0.1 Mult each time a snack is eaten
++0.1 mult
+Tooth
++1 Mult
+Majong Tile
++2 Mult
+Clam
++50 Points
++10 Mult, -2 Mult for each die scored
+Papa
++1 Mult per die scored
+Powered Claw
++5 Mult, uses 1 Power
+POY SIAN
++40 Points for each unrolled 4
+Hold The Ones
++1 Mult for each unrolled 1
+Zero Bust Turbo
+Banking with no Busts starts next turn with 10 Momentum
+10 momentum!
+Mushieltador
+Gain a Bust Shield when banking if last hand was any Straight
+Survival Instinct
+x2 Mult on 1 turn left
+Mandarine Peel
++5 Mult for first scored hand each turn
+Octupus Ting
+x3 Mult for your first scored hand each level
+Four Legged Star
++300 points for hand containing Four Of A Kind
+Minnesota Fats
++200 points for any Straight
+straight
+Bimber
++200 points for a Full House
+Kind Berry Three
++200 points for Three Of A Kind
+Two Pair Cat
++200 points for hand containing Two Pair
+Just A Pair
++100 points for a Pair
+pair
+Fifteen sum
+x3 Mult if the scored dice sum to 15
+dice
+Sumush
+x2 Mult if the scored dice sum to 10
+Lil' Choy
+x2 Mult when scoring 3 or fewer dice
+Toad Hut
+x2 Mult for hand containing Four Of A Kind
+Pink Top
+x2 Mult for any Straight
+Absinthe
+x2 Mult for Full House
+Three Legged Pirate
+x2 Mult for Three Of A Kind
+Two Pair Mult Cat
+x1.5 Mult for hand containing Two Pair
+x1.5
+Pair Mult Dog
+x1.5 Mult for Pair, Two Pair and Three Pair
+Poppy
+x2 Mult for hand containing three 6s
+Sunnies
+0.5x Mult for each scored 2
+x${mult}
+Cactus
++0.5x Mult per scored die
+Yolk
+Flipping a single coin +5 Mult
+Lucky Leaf
+x2 Mult if a coin is scored
+Soy Fish
++1 Mult per scored coin
++${amount} mult
+Sardine
++50 Points per scored coin
++${amount} pts
+Snake Hold
+Snake Eyes hold hand
+The Mask
+Hands with 6s hold hand
+Black Eye
+Spawn Black Eyed Pea on Bust
+Pea!
+Pain Tolerance
++1 Mult on Bust
+Masochist Rock
+x2 Mult on Bust
+x2 Mult
+Palosanto
+If hand Mult is over 10: +5 Mult
+Chestnut
++50 points when any item triggers
+Dolphin
+Spawns a random snack each level
+Snack!
+Lemonade Stand
+Spawns a citrus slice each turn
+Crowd Pleaser
++50 Points per trinket on board
+Double Down
+Flipping a single coin x2 Mult
+Just An Anxious Guy
++4 Mult for Four Of A Kind
+Double Three Blibber
++3 Mult for Three Of A Kind
++4 Mult for Two Pair
+Pair Cat
++2 Mult for Pair, Two Pair and Three Pair
+Threes Gobber
++100 Points for hand containing Three Of A Kind
+Gay Moth
++60 Points for rerolling a 6
+Mini Goob
++0.1 Mult per dice rolled
+Faster
++1 Momentum
++1 momentum
+Spite
+On Bust, gain +1 Momentum
+Shortbread Biscuit
++100 Points for rerolling a single die
+Banksia
+Rerolling a Pair recharges Power
+Power Recharged
+Lycheye
+Two Pair recharges Power
+Bump Jug
+Scoring a Full House recharges Power
+Full Send
+Rerolling 5 dice or more recharges Power
+God Give Me Strength
+Rerolling a single die recharges Power
+High Roller
++1 Mult for each 6 scored
+Low Ball
+x2 Mult if all scored dice are 3 or under
+Even Now
++50 Points per scored even die
+Flesh Ring
++1 Mult per scored odd die
+Goldfish
++2 Mult for each scored 5
+Antler
++2 Mult for each scored 2
+Evil Eye
++1 mult for each scored 1
+Lil Buddy
++60 Points for each scored 6
+Eagles Claw
++100 Points for each scored 1
+Fast Glasses
++100 Points for each scored 2
+Shard
++1 Mult for each scored 3
+Shrimp
++40 Points for each scored 4
+Stuck Bonus
+Each Stuck side scored gives +100 Points
+Bonus Bonus
+Each Bonus side scored gives +100 Points
+Power Bonus
+Each Power side scored gives +100 Points
+Stuck Mult
+Each Stuck side scored gives +4 Mult
+Bonus Mult
+Each Bonus side scored gives +3 Mult
+Power Mult
+Each Power side scored gives +2 Mult
+Rowan
++5 Mult if the hand contains at least three 1s
+House Stamp
+Rerolling a Three Of A Kind permanently upgrades Full House. Fades with use.
+Faded
+Full House Upgraded
+Stamp
+Rerolling a combo upgrades it permanently. Fades with use.
+On Roll
+${combo} Upgraded
+Gouda
+Rerolling a Three Of A Kind gives 2¥
+2¥
+Pearl
++1¥ for every two scored 1s
+Queens Jug
++1¥ for a Full House
+Star Biscuit
+Rolling 2+ dice while at 1 Bust gives 2¥
+Overtime Star
+Gain a Bust Shield for scoring Star Bonanza
+Already shielded
+Trotter
+Pig Points x2
+Piglet
++3 Mult for rerolling 3 or more Pig sides
+Chew Toy
+1 in 6 chance to spawn a coin when rerolling a Pig side
+1¥!
+Paw
+Rolling a single die adds +2 Mult
+Incel
+Rerolling hand containing Pair gives 100 Points and 1 mult
+Ghost Carrage
+Scoring a Full House spawns a ghost die
+Ghost!
+Ghostanza
+Scoring a Star Bonanza spawns 4 ghost dice
+Ghost Biscuit
+Roll exactly 1 die - if it's a 5 or 6, spawn a ghost die
+Coin Biscuit
+Roll exactly 1 die - if it's a 2, +1¥
+1¥
+Mult Biscuit
+Roll exactly 1 die - if it's a 3 or 4, +1 Mult
+Flask Of Ghost
+Rerolling a hand that contains a Three Of A Kind creates 2 ghost dice
+Bone
+Hands containing a ghost dice score +100 Points
+Razor
+1 in 3 chance to spawn a ghost die on Bust
+Scared Straight
+Playing a Straight spawns a ghost die
+Cell
+Start each turn with a Bust Shield
+shield!
+Jade Bracelet
+3 in 4 chance to block an instant wipe.\n${dynamic} uses left.
+Shattered!
+Four Cell
+If you would bust, each unrolled 4 gives a 20% chance to cancel it
+Candle
+1 in 2 chance to turn instant wipe into a single Bust.
+oof
+Reduced!
+Anis Star
+Bust Limit +1
+Soft Wipes
+Wiping doesn't clear dice or hand
+Taro Jelly
+Scoring 5s flips them to 6s
+Osmanthus Jelly
+Scoring 1s flips them to 3s
+Sludge Jelly
+2s always reroll into 3s
+Bubblegum Jelly
+3s always reroll into 5s
+Flip Flop
+Odd numbers roll into even and vice versa.\nDoesn't affect coins.
+Second Chance Jelly
+1s can't reroll into 1s\nDoesn't affect coins.
+Knucklebone
++1 Bust Limit, -1 Turn Limit 
+Turn Plus Bust Minus
+-1 Bust Limit, +1 Turn Limit 
+Loopongo
+Straights can loop
+Lotus Loan
+Free money?
+Even Bad
+-50 Points per scored even die
+Odd Bad
+-1 Mult per scored odd die
+-150 Points per scored even die
+-3 Mult per scored odd die
+-200 Points per scored even die
+-5 Mult per scored odd die
+Points -100
+-100 Points
+Points -150
+-150 Points
+Points -250
+-250 Points
+Mult -2
+-2 Mult
+Mult -3
+-3 Mult
+Mult -5
+-5 Mult
+Half Points
+Halfs the points
+x0.5
+Half Mult
+Halfs the mult
+Bad Momentum
+-1 Momentum
+-2 Momentum
+6s and 4s to 1s
+6s and 4s always reroll into 1s
+6s to 1s
+6s always reroll into 1s
+Minus Max Bust
+Max Bust -1.
+Turn Down Power Up
+Turn Limit -1, Power Limit +2
+Cursed Score
+Feels bad for you
+Each time you score, 1 random die takes damage
+cursed!
+Each time you score, 2 random dice takes damage
+Small Minded
+Combos above 4 dice give no score
+Bad Threes
+-3 Mult per scored 3
+Bad Fours
+-4 Mult per scored 4
+Bad Sixes
+-6 Mult per scored 6
+Pair Aversion
+Combos containing a Pair -3 Mult
+Triple Trouble
+Combos containing Three Of A Kind -4 Mult
+No Four Kind
+Four Of A Kind gives no score
+No Full House
+Full House gives no score
+No Bonanza
+Star Bonanza gives no score
+Slippery 6s
+Auto-reroll dice that show a 6
+Dice randomly reroll on their own.
+Slippery Threes
+Auto-reroll dice that show a 3, score 33 Points for each
+Bad Tooth
+-1 Dice Space
+Dues
+Rerolls all dice and coins.\n5% chance to activate on dice rolls.
+Rerolled!
+Rerolls a single random coin.\n5% chance to activate on dice rolls.
+Coin rerolled!
+All dice roll 1s.\n5% chance to activate on dice rolls.
+Deal 4 damage spread randomly across dice.\n5% chance to activate on dice rolls.
+No dice!
+Cursed!
+Deal 1 damage to all dice.\n5% chance to activate on dice rolls.
+Damaged!
+Deal 2 damage to the selected die.\n5% chance to activate on dice rolls.
+Select 1 die
+Add a Bust side to the selected die.\n5% chance to activate on dice rolls.
+No free side
+Destroy the selected die.\n5% chance to activate on dice rolls.
+Add a Cracked side to the selected die.\n5% chance to activate on dice rolls.
+Add a Doom side to the selected die.\n5% chance to activate on dice rolls.
++1 Bust.\n5% chance to activate on dice rolls.
++1 Bust
++3 Bust.\n5% chance to activate on dice rolls.
++3 Bust
+-1 Turn.\n5% chance to activate on dice rolls.
+-1 Turn
+Fish Bucket
++15 §
+No fish power!
++15 Fish!
+Fish Offering
+-10§, -5% difficulty
+Need 10 fish!
+-5% difficulty!
+Option Call
+-20 §, +5¥
+Need 20 fish!
++5¥!
+Pump
++10 § price at the next market
+Price pumped!
+Dump
+-10 § price at the next market
+Price dumped!
+Roe
++3 § at the start of each level
++3 §!
+Whale Oil
++1 Points per § on score
+Carp Aspic
++1 Mult per 5 § spent this level
++${MULT} Mult, +1 per 5 § spent this level
+Piranha
++5 Mult.\nEats 10 § at the start of each level.\nIf you can't feed it, it eats a die instead.
+-10 §!
+Ate a die!
+Hungry!
+Barnacle
++1 § per 10 § held at the start of each level
++ ${interest} §!
+Ball Gag
+Dice pip becomes 1
+Peanut
+Dice pip becomes 2
+Wood Sorrel
+Dice pip becomes 3
+Picture Frame
+Dice pip becomes 4
+Paper Star
+Dice pip becomes 5
+Honeycomb
+Dice pip becomes 6
+Scrambled Eggs
+Dice pip becomes ???
+${points}!
+Maths Test
+Spawn 0-6 random numeracy foods
+take test
+Result: $grade / $total
+Clown Shoes
+Nudge all dice either -1 or +3 pips
+roll dice first
+Bamboozle
+Nudge all dice individually between +0 and +2 pips.
+Stuck Debust
+Add Stuck to the selected die's current face. -1 Bust.
+Hard Reset
+Lock one selected die, -1 Bust.
+Ghost Trade
+Lock one selected die. Spawn 2 ghost dice.
+Tell The Future
+Block 2 sides from being rolled on the selected die next roll.
+Nudge Skip
++1 pip to the selected die, skipping values already showing.
+Nudge Up
++1 pip to the selected die
+Flip
+Flip the selected die to its opposite face.
+Smite
+Sacrifice selected die, +3 ¥
+Pip Pip
+Set the second selected die to the same pip value as the first.
+Ghost Clone
+Spawn a ghost copy of the selected die.
+Reroll
+Reroll all selected dice. 1s can't be rolled.
+Roll over
+Reroll two selected dice to their next lower value.
+item
+Mystery Die
+Spawn a random die.
+Gain a Bust Shield.
+Ghost Bust
+Gain an extra blue Bust for this turn.
+Fishy Deal
+-1 Bust, +1 ¥. Bump difficulty.
+Level Skip
+Skip a level. Spawns a random die.
+Fishy Loan
++100 Points, +1 ¥. Take on debt.
+${s} ${bites}/${total}
+Nibble
+${nibble}% chance to take a proper bite\nRegain 1 bust.${die}
+You might be finished
+Munch
+Take a big bite to regain all busts.
+Reincarnate
+Selected die is reborn
+all
+< back
+dawn mode
+night mode
+day
+night
+Created by
+Translation
+Special Thanks
+The Dice
+God
+And you!
+Thanks for playing! <3
+Nothing Available
+sorry sorry
+outfit
+accessory
+off
+Distort A
+Distort B
+stretch or squash
+stretch
+squash
+Dye
+recolour
+party
+wait
+hit that shit?
+only shows with DEBUG
+play
+star
+¤ banked
+how boring
+no more waking up
+i am god i forbid it
+you won
+toss a coin\n\ndouble or nothing
+i create reality
+nothing
+not enough faith
+you are my bravest child
+and i am your god
+pass and bank
+i am god
+thats it for the demo
+buy the game now
+wishlist the game
+Browser Opened!
+Thanks <3
+Buy Here
+Wishlist Here
+back to title
+well well well
+how did we get here?
+ah, i remember
+you bet your soul
+and you lost
+embrace oblivion
+none of this ever happened
+... until we meet again
+my bravest child
+well done child
+you are brave
+you are worthy
+i will offer you one final wager
+heads: you're free
+tails: i will personally destroy all the files i can access on this device
+do it, all in
+flick it like you mean it
+this is real
+ending
+hahaha
+fair enough
+I can't do it
+--  Fish Market  --
+1 §
+1 ¥
+§ | +1¥
+Sell Fish
+-1¥ | +
+Buy Fish
+Next!
+tutorial
+screen
+PAUSE II
+Continue
+Cannot Restart Bet Runs
+Restart
+Restart the run from scratch\nand lose all gained stars?
+Options
+Quit
+Quit to menu and lose all gained stars?
+secure the points\nend the turn\nrecharge character power\nclear momentum
+BANK
+you must have some points to bank
+momentum: ${amount}
+adds extra ${momentum} points and mult
+Losing all Busts ends the turn.\nBusts refill at the start of each Turn
+Blocks up to 
+busts, disappears when damaged
+ALL BUST BLOCKED
+SHIELD OVERLOADED
+BLOCKED
+bet 
+${STARS} Stars Unbanked
+
+bank stars after each nightmare level or win the run to secure them
+praying...
+pray
+Losing all Turns ends the game.\nTurns refill at the start of each level.
+MERGED
+active
+Solo
+Pair
+1-1
+Short Straight
+1-2-3-4
+Two Pair
+1-1 2-2
+Three Of A Kind
+1-1-1
+Full House
+1-1-1 2-2
+Four Of A Kind
+1-1-1-1
+Straight
+1-2-3-4-5
+Long Straight
+1-2-3-4-5-6
+Star Bonanza
+1-1-1-1-1
+Star Extravaganza
+1-1-1-1-1-1
+Star Bonanzovaganza
+1-1-1-1-1-1-1
+Three Pair
+1-1-2-2-3-3
+Flush
+¤-¤-¤-¤
+Straight Flush
+¤1-2-3-4-5¤
+Triple 7
+7-7-7
+JACKPOT
+gain a gold star
+Triple 8
+8-8-8
+BLESSED 
+-1 bust
+Lucky 8
+1-1-1-1-1-1-1-1
+Unlucky 13
+Lucky 88
+How?
+win
+Level $level/$count $name
+NIGHTMARE LEVEL
+Rift
+fight
+heal
+this coin is an affront to life itself
+this die is an affront to life itself
+we shall not suffer such an unholy thing
+thou shalt not shy from risk
+you thought you could get away with this?
+extremely naughty
+no downside not allowed
+WHAT
+refilled
+LAST TURN
+- Out Of Dice -
+never
+Looks like you're cooked\n\nGive up?
+INSTANT WIPE
+${rolled} OUT OF ${rolled} DICE ROLLED BUST
+W I P E
+roll
+SKIP ${pip}
+SKIP LOOPED
+Level Complete
+Overshoot! +
+Level Coins
+Extra Turn Coins
+Combine Coins
+Bet bonus! +
+--  Level ${number} Complete!  --
+Score:
+Reward:
+Extra turns:
+Bet bonus:
+Overshoot:
+Total:
+Trade!
+don't lose it
+Soul on line
+¤${BET} wagered
+¤ Banked
+Bank ¤${KEPT}?
+Win To Bank ¤
+Bank ¤ in ${LEVELS} lvl
+Secure your Stars for the run\nyou won't be able to gain more this run
+Stars already banked this run
+Securing Stars available after each nightmare level
+shop
+add
+options
+play!
+Wager your Soul?
+You are betting your soul.\nIf you lose, your save is gone forever.
+the young will inherit the earth
+???
+get more gold ¤ with wagers
+A modest wager.\nWin and keep your stars plus a small bonus.
+Wager half your stars.\nMinimum 500 ¤\nHigher stakes, more stars.
+Wager all your stars.\nMinimum 1000 ¤\nEven more star rewards.
+Your soul is the wager.\nSpecial reward.\nFail and lose EVERYTHING.
+Wager
+Levels
+Wager stars to add levels,\nnext level 
+favourite items
+all items
+Difficulty
+${stars} ¤ reward limit
+levels
+SOUL OVER
+Congratulations, you lost.
+Better luck next time.
+Maybe next time.
+Bet ${BET}¤
+Death Tax ${STARS}¤
+GAME OVER
+--  Run Summary  --
+Level reached:
+Points scored:
+Dice rolled:
+Ones rolled:
+Run stars:
+Death tax:
+run info
+restart
+Press B To Toss
+Right Click To Toss
+spawn
+This is a game about luck.
+This is still a game about luck.
+This is a game about rolling ones, apparently.
+Yikes. Still no luck huh?
+This game might not be for you.
+It can't be that hard.
+At this point, you might consider refunding.
+You might be special.
+...
+Game by
+Roll 6 to start.
+Roll 1 to quit.
+right\nclick
+Press B To Roll
+Right Click To Roll
+Franek & Max
+luck
+skill
+talent
+patience
+fate
+destiny
+Roll to gain Stars.
+Roll 1 to lose Stars.
+This is a game about ${reason}.
+bank and start
+pass and start
+(A) 
+nothing ventured, nothing gained
+best today!
+pitiful
+uninspiring
+delicious
+excellent
+Build ID: ${id}
+audio
+master
+music
+ambient
+sfx
+mute
+no
+display
+fullscreen
+vsync
+chromab
+scanlines
+bulge
+accessibility
+screenshake
+tips
+slow computer
+fast animation
+scroll bgs
+danger zone
+locale
+nuke entire save
+Delete the entire game's save file\nresetting everything\nand losing all your progress forever?
+reset options
+Reset all the game options\nto their default values?
+reset tips
+reset all the hover tooltip counters\nso that all the tips show again?
+replay tutorial
+Loading Scores...
+MOST_STARS
+Most Stars
+stars held
+HIGHEST_LEVEL
+Highest Level
+level
+LEVEL_SCORE
+Best Level Score
+HAND_SCORE
+Biggest Hand
+GREED_INTRO
+Greed Intro
+stars won
+MOST_WINS
+Most Wins
+wins
+MOST_FISH
+Most Fish
+fish in a run
+(data did not load)
+LUCK
+${rank}. ${name}
+you
+Global
+-- ${title} --
+# player
+Your Luck
+luckier than ${percent}%
+rolls
+busts
+your bust rate
+expected
+player average
+Completion
+runs played
+runs won
+achievements
+--  TAX AUDIT  --
+You haven't paid your debt.\nPay ${debt} § or bribe your way out.
+Pay ${debt} §
+50% success
+Bribe ${cost}¥
+Give up a die
+You haven't paid your debt.\nWe will take your dice now.
+You've entered upper tax bracket.\nPay up ${amount} § of your fish.
+Pay Up
+Take on 2 Debt Dues
+You've been audited.\nYou haven't paid taxes.\nWe will be taking ${amount} § of your fish.
+roll 6 to play\nroll 1 to quit
+so you chose to come back
+you will see, very soon
+GAMEPAD WARNING: support is still pretty rough - report bugs on steam or discord <3
+the world you grew up in no longer exists
+Play
+feeling lucky?
+Tutorial
+learn to play
+Star Guts
+unlock stuff
+Scoreboards
+be the goat
+game setup
+bye?
+brighten up
+rest your eyes
+discord
+community chat
+steam
+feedback and updates
+ost
+coming soon
+representations are still solidifying - physical form is meaningless - you're imagining it
+Upgrades
+buy upgrades with ¤
+you have to do something to unlock this :)
+coming in a future update <3
+only available in the full game <3
+debug: 
+(missing title)
+(description not yet implemented)
+playable character
+new depths
+items
+SNACK
+unfavourite
+favourite
+not favourite
+character
+Customise
+board
+replace
+Like the Evening Star
+El Tigre
+Ride Home
+Left in the Sun
+Too Tired To Think Of A Title
+Hijaq
+nighttime
+Miku Breakcore
+So Try To Enjoy It While It Lasts
+World's Smallest Breakcore
+noname
+Yume no Ato
+Dreamy Synthwave
+LOCKED
+flush
+%d  x%.2f
+Combinations
+hello :)
+easy bet
+increase difficulty by 1
+medium bet
+increase difficulty by 2
+hard bet
+increase difficulty by 3
+HELP ME!
+INFO DUMP :)
+BUST
+Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.
+ALL BUST - INSTANT WIPE
+The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust
+BANKING
+BANK to lock in your points and refill the Bust meter.\nEach BANK ends your Turn.
+TURN
+Each level you get limited Turns.\nTurns end when you BANK or WIPE.\nWhen you run out of Turns the game is over.\nBust meter and Power charge refill each turn.
+SCORING
+Select dice that form a combo and score them.\nPoints x Mult = Score.\nBigger combos score exponentially more.\nScore multiple combos in one Turn to build Momentum for extra Points and Mult
+TRINKETS, SPELLS & SNACKS
+- Trinkets are passive, they trigger automatically.\n- Spells are one time use!\n- Snacks are dragged onto a die to add special effects.
+CHARACTER POWER
+Each character has a unique Power. Use them to modify dice, reduce risk and get better combos.\n\nPower recharges each turn or with die side effects and items.
+BASIC TACTICS
+The more dice you roll at once the bigger chance of any Bust, but smaller chance of All Bust.\n\nRerolling a single die is ballsy! Prioritize rerolling blank dice. Scoring a single big combo is better than few pairs.
+SPELL
+LEVEL MAP
+Level 
+Final nightmare level
+Final level
+Nightmare level
+pts
+customisation
+catalogue
+unlock
+tip
