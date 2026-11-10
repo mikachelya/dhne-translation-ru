@@ -1,41 +1,41 @@
 location	extra context	en	translation	Checked
 src/are_you_sure.lua:14 (+3 others)		Are you sure?	Ты уверен?	y
 src/are_you_sure.lua:15 (+13 others)		yes	да	y
-src/are_you_sure.lua:17		really?	точно?	
-src/board_unlocks.lua:7		chill vibes	расслабляющая атмосфера	
+src/are_you_sure.lua:17		really?	точно?	y
+src/board_unlocks.lua:7		chill vibes	расслабляющая атмосфера	y
 src/board_unlocks.lua:17		the real game begins	начинается настоящая игра	y
-src/board_unlocks.lua:27		something smells fishy	Что-то пахнет рыбой.	
-src/boards/easy.lua:2		Shallows	Мелководье	
-src/boards/easy.lua:3		Chill Vibes.\nShort run, extra bust limit, capped rewards.	Расслабляющая атмосфера.\nКороткий срок, дополнительный лимит на количество попыток, ограниченное количество наград.	
-src/boards/easy.lua:4		the friendliest pond around	самый дружелюбный пруд в округе	
-src/boards/fish_board.lua:2		The Bay	Залив	
-src/boards/fish_board.lua:3		Smells Fishy	Пахнет рыбой	
+src/board_unlocks.lua:27		something smells fishy	попахивает рыбой	д
+src/boards/easy.lua:2		Shallows	Мелководье	y
+src/boards/easy.lua:3		Chill Vibes.\nShort run, extra bust limit, capped rewards.	Расслабляющая атмосфера.\nКороткий забег, дополнительный баст, ограниченные награды.	д
+src/boards/easy.lua:4		the friendliest pond around	самый дружелюбный пруд в округе	y
+src/boards/fish_board.lua:2		The Bay	Залив	y
+src/boards/fish_board.lua:3		Smells Fishy	Попахивает Рыбой	д
 src/boards/fish_board.lua:4		come for the fish, stay for the fish	Приезжайте ради рыбы, оставайтесь ради рыбы.	
 src/boards/normal.lua:2		Lands Adrift	Затерянные земли	
-src/boards/normal.lua:3		Real game begins.	Настоящая игра начинается.	
-src/boards/normal.lua:4		you'll never want to leave	Вам никогда не захочется уезжать	
-src/boards/rift.lua:3		Decide how deep you can go.	Определите, насколько глубоко вы можете погрузиться.	
+src/boards/normal.lua:3		Real game begins.	Начинается настоящая игра.	y
+src/boards/normal.lua:4		you'll never want to leave	ты никогда не захочешь уйти	д
+src/boards/rift.lua:3		Decide how deep you can go.	Реши насколько глубоко ты погрузишься.	д
 src/boards/rift.lua:4		please mind the gap	Пожалуйста, обратите внимание на зазор.	
-src/boards/the_end.lua:2		The End	Конец	
-src/boards/the_end.lua:3		This is it.	Вот и всё.	
-src/boards/the_end.lua:4		thank you for visiting	Спасибо за посещение!	
-src/character_unlocks.lua:10		never born but alive	никогда не рождался, но жив	
-src/character_unlocks.lua:21		tries her best	старается изо всех сил	
-src/character_unlocks.lua:31		likes watching you bust	Тебе нравится смотреть, как ты кончаешь	
-src/character_unlocks.lua:42		just a dude	просто парень	
-src/character_unlocks.lua:53		gets away with it	ему это сходит с рук	
-src/character_unlocks.lua:63		god stronger warrior	бог более сильный воин	
-src/character_unlocks.lua:74 (+1 others)		woof	гав	
-src/character_unlocks.lua:84		woof?	Гав?	
-src/character_unlocks.lua:95		he's so cool	Он такой классный!	
+src/boards/the_end.lua:2		The End	Конец	д
+src/boards/the_end.lua:3		This is it.	Это всё.	д
+src/boards/the_end.lua:4		thank you for visiting	спасибо за визит	д
+src/character_unlocks.lua:10		never born but alive	не рожден, но жив	д
+src/character_unlocks.lua:21		tries her best	старается изо всех сил	д
+src/character_unlocks.lua:31		likes watching you bust	любит смотреть как тебе выпадает баст	д
+src/character_unlocks.lua:42		just a dude	просто парень	д
+src/character_unlocks.lua:53		gets away with it	как с гуся вода	д
+src/character_unlocks.lua:63		god stronger warrior	сильнейший воин Бога	д
+src/character_unlocks.lua:74 (+1 others)		woof	гав	д
+src/character_unlocks.lua:84		woof?	гав?	д
+src/character_unlocks.lua:95		he's so cool	он такой крутой	д
 src/character_unlocks.lua:105		slimy	скользкий	
-src/character_unlocks.lua:115		she's doing well for herself	У неё всё хорошо.	
-src/character_unlocks.lua:120		Plasticine	Пластилин	
+src/character_unlocks.lua:115		she's doing well for herself	у неё всё хорошо	д
+src/character_unlocks.lua:120		Plasticine	Пластилин	д
 src/character_unlocks.lua:121		like putty in your hands\ncharacter customisation option	как пластилин в руках\nопция настройки персонажа	
-src/character_unlocks.lua:133		Bets	Ставки	
-src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward	ставка ¤ увеличивает сложность и вознаграждение	
-src/character_unlocks.lua:145		Soul Wager	Пари души	
-src/character_unlocks.lua:146		bet your save file for the ultimate reward	Поставьте на кон свой файл сохранения ради высшей награды	
+src/character_unlocks.lua:133		Bets	Ставки	д
+src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward	поставь ¤ чтобы повысить сложность и награду	д
+src/character_unlocks.lua:145		Soul Wager	Пари Души	д
+src/character_unlocks.lua:146		bet your save file for the ultimate reward	рискни своим файлом ради высшей награды	д
 src/characters/anais.lua:2		Anais	Анаис	y
 src/characters/anais.lua:38		Biblically Accurate	Библейски Точный	y
 src/characters/anais.lua:39		real angels dont have wings	у настоящих ангелов нет крыльев	y
@@ -43,52 +43,52 @@ src/characters/anais.lua:56	dialogue	Kill what you love	Убей то, что л
 src/characters/business_fish.lua:2		Business Fish	Бизнес Рыба	y
 src/characters/business_fish.lua:33		Promotion	Повышение	y
 src/characters/business_fish.lua:34		dont let us down	не подведи нас	y
-src/characters/business_fish.lua:53 (+1 others)	dialogue	You're playing shallows?	Ты играешь на мелководье?	
-src/characters/business_fish.lua:54 (+1 others)	dialogue	This ain't it	Это не то.	
-src/characters/business_fish.lua:55 (+1 others)	dialogue	Take me into deep waters baby.	Отведи меня в глубокие воды, детка.	
-src/characters/business_fish.lua:57	dialogue	Tuff' day in fish business	Тяжелый день в рыбном бизнесе.	
+src/characters/business_fish.lua:53 (+1 others)	dialogue	You're playing shallows?	Ты играешь на мелководье?	д
+src/characters/business_fish.lua:54 (+1 others)	dialogue	This ain't it	Это не то	д
+src/characters/business_fish.lua:55 (+1 others)	dialogue	Take me into deep waters baby.	Отведи меня в глубокие воды, детка.	д
+src/characters/business_fish.lua:57	dialogue	Tuff' day in fish business	Тяжелый день в рыбном бизнесе	д
 src/characters/cool_fish.lua:2		Cool Fish	Крутая Рыба	y
-src/characters/cool_fish.lua:34		Level 2	Уровень 2	
-src/characters/cool_fish.lua:35 (+3 others)		level up	повысить уровень	
-src/characters/cool_fish.lua:42		Level 3	Уровень 3	
-src/characters/cool_fish.lua:43		level up more	повышайте уровень	
+src/characters/cool_fish.lua:34		Level 2	Уровень 2	д
+src/characters/cool_fish.lua:35 (+3 others)		level up	повысить уровень	д
+src/characters/cool_fish.lua:42		Level 3	Уровень 3	д
+src/characters/cool_fish.lua:43		level up more	повысить уровень еще раз	д
 src/characters/cool_fish.lua:66	dialogue	Oh, this jacket?\nIt was 3000¥	А, эта куртка? Стоила 3000¥	y
 src/characters/cool_fish.lua:67	dialogue	It's from Japan yeah	Да, из Японии	y
-src/characters/dog.lua:2		Dog	Собака	
-src/characters/dog.lua:34		Fancy Fancy	Изысканный Изысканный	
-src/characters/god.lua:11	dialogue	unworthy	недостойный	
-src/characters/god.lua:15	dialogue	fall back	отступать	
-src/characters/god.lua:31	dialogue	begone	убирайся	
-src/characters/god.lua:36 (+1 others)		soul	душа	
-src/characters/god.lua:37		wager your soul	поставь свою душу на кон.	
-src/characters/god.lua:43	dialogue	i hope you are feeling lucky	Надеюсь, вам сопутствует удача.	
-src/characters/god.lua:52 (+2 others)		gold	золото	
-src/characters/god.lua:62		but you have nothing left	но у тебя ничего не осталось	
-src/characters/god.lua:64		but you have earned nothing	но ты ничего не заработал	
-src/characters/god.lua:66		but you need ${stars} ¤	но вам нужно ${звезд} ¤	
-src/characters/god.lua:71		gold ¤	золото ¤	
-src/characters/god.lua:72		wager all 	ставка все	
-src/characters/god.lua:72		wager 	ставка	
-src/characters/god.lua:72		and 	и	
-src/characters/god.lua:74		wager a gold ¤	поставьте золото ¤	
-src/characters/god.lua:82	dialogue	you always were my bravest child	Ты всегда была моим самым храбрым ребёнком.	
-src/characters/god.lua:87		God?	Бог?	
-src/characters/god.lua:237		i demand commitment	я требую приверженности	
-src/characters/god.lua:239		show me what you have earned	Покажи мне, что ты заработал	
-src/characters/god.lua:243		give me everything	дай мне всё	
-src/characters/god.lua:247		do you have what it takes?	У вас есть все необходимое?	
-src/characters/god.lua:251		you are never getting out of here	Ты отсюда никогда не выберешься.	
-src/characters/god.lua:295		i always believed in you	Я всегда верила в тебя.	
-src/characters/guy.lua:2		Guy	Парень	
-src/characters/guy.lua:34		Eyes Wide Open	Глаза широко открыты	
-src/characters/guy.lua:35		see the stars	увидеть звезды	
-src/characters/guy.lua:53	dialogue	Reach level 7 to break free!	Достигните 7-го уровня, чтобы вырваться на свободу!	
-src/characters/guy.lua:55	dialogue	Reach level 10 to break free!	Достигните 10-го уровня, чтобы вырваться на свободу!	
-src/characters/guy.lua:80	dialogue	Keep riding?	Продолжайте ехать?	
-src/characters/guy.lua:82	dialogue	I'll revive you for $cost ¤ and one passive item	Я оживлю тебя за $cost ¤ и один пассивный предмет.	
-src/characters/guy.lua:85 (+5 others)		Yes	Да	
-src/characters/guy.lua:88	dialogue	Live your truth	Живи в соответствии со своей истиной.	
-src/characters/guy.lua:102	dialogue	Ride on	Вперёд!	
+src/characters/dog.lua:2		Dog	Собака	д
+src/characters/dog.lua:34		Fancy Fancy	Изысканно Изысканно	д
+src/characters/god.lua:11	dialogue	unworthy	недостойная	д
+src/characters/god.lua:15	dialogue	fall back	отступи	д
+src/characters/god.lua:31	dialogue	begone	убирайся	д
+src/characters/god.lua:36 (+1 others)		soul	душа	д
+src/characters/god.lua:37		wager your soul	поставь свою душу на кон	д
+src/characters/god.lua:43	dialogue	i hope you are feeling lucky	надеюсь ты удачник	д
+src/characters/god.lua:52 (+2 others)		gold	золото	д
+src/characters/god.lua:62		but you have nothing left	но у тебя ничего не осталось	д
+src/characters/god.lua:64		but you have earned nothing	но ты ничего не заработала	д
+src/characters/god.lua:66		but you need ${stars} ¤	но тебе нужно ${stars} ¤	д
+src/characters/god.lua:71		gold ¤	золотых ¤	д
+src/characters/god.lua:72		wager all 	поставить все	д
+src/characters/god.lua:72		wager 	поставить	д
+src/characters/god.lua:72		and 	и	д
+src/characters/god.lua:74		wager a gold ¤	поставить золото ¤	д
+src/characters/god.lua:82	dialogue	you always were my bravest child	Ты всегда была моим самым храбрым ребёнком	д
+src/characters/god.lua:87		God?	Бог?	д
+src/characters/god.lua:237		i demand commitment	я требую преданности	д
+src/characters/god.lua:239		show me what you have earned	покажи мне что ты заработала	д
+src/characters/god.lua:243		give me everything	дай мне всё	д
+src/characters/god.lua:247		do you have what it takes?	в тебе есть то что нужно?	д
+src/characters/god.lua:251		you are never getting out of here	ты отсюда никогда не выберешься	д
+src/characters/god.lua:295		i always believed in you	я всегда верил в тебя	д
+src/characters/guy.lua:2		Guy	Чел	д
+src/characters/guy.lua:34		Eyes Wide Open	Глаза Широко Открыты	д
+src/characters/guy.lua:35		see the stars	посмотри на звезды	д
+src/characters/guy.lua:53	dialogue	Reach level 7 to break free!	Достигни 7-го уровня, чтобы вырваться на свободу!	д
+src/characters/guy.lua:55	dialogue	Reach level 10 to break free!	Достигни 10-го уровня, чтобы вырваться на свободу!	д
+src/characters/guy.lua:80	dialogue	Keep riding?	Продолжишь?	д
+src/characters/guy.lua:82	dialogue	I'll revive you for $cost ¤ and one passive item	Я оживлю тебя за $cost ¤ и один пассивный предмет.	д
+src/characters/guy.lua:85 (+5 others)		Yes	Да	д
+src/characters/guy.lua:88	dialogue	Live your truth	Живи свою истину	д
+src/characters/guy.lua:102	dialogue	Ride on	Вперёд!	д
 src/characters/hotdog.lua:2		Hot Dawg	Хот-Дог	y
 src/characters/king_fetus.lua:2		King Foetus	Король Эмбрион	y
 src/characters/king_fetus.lua:38		Foetus 2	Эмбрион 2	y
@@ -97,12 +97,12 @@ src/characters/king_fetus.lua:58	dialogue	Reach level 7 to escape!	Добери�
 src/characters/king_fetus.lua:59 (+1 others)	dialogue	goo goo gaa gaa	гу гу га га	y
 src/characters/king_fetus.lua:61	dialogue	Reach level 10 to escape!	Доберись до 7-го уровня, чтобы выбраться!	y
 src/characters/king_fetus.lua:81	dialogue	go more?	ещё?	y
-src/characters/king_fetus.lua:83	dialogue	revive for $cost ¤ and 1 max bust	Возрождение за $cost ¤ и 1 max bust	
-src/characters/king_fetus.lua:102	dialogue	glob gob	глоб гоб	
+src/characters/king_fetus.lua:83	dialogue	revive for $cost ¤ and 1 max bust	Воскресись за $cost ¤ и 1 лимит бастов	
+src/characters/king_fetus.lua:102	dialogue	glob gob	буль буль	д
 src/characters/liz.lua:2 (+1 others)		Liz	Лиз	y
 src/characters/liz.lua:30		Liz 2	Лиз 2	y
 src/characters/liz.lua:38		Halo	Нимб	y
-src/characters/liz.lua:39		glow up	преобразиться	
+src/characters/liz.lua:39		glow up	преобразиться	д
 src/characters/liz.lua:73	dialogue	Hey, my love	Привет, любовь	y
 src/characters/liz.lua:74	dialogue	Remember, ${count} levels and you're out of here!	Помни, ${count} уровней, и ты свободна!	y
 src/characters/liz.lua:84	dialogue	Ah well	Ничего	y
@@ -111,7 +111,7 @@ src/characters/liz.lua:113	dialogue	...Want to keep going?	... Хочешь пр
 src/characters/liz.lua:115	dialogue	I'll revive you for $cost ¤ and one die	Я тебя воскрешу за $cost ¤ и один кубик	y
 src/characters/liz.lua:121	dialogue	Your loss :)	Твоя потеря :)	y
 src/characters/liz.lua:140	dialogue	Hope it's worth it!	Надеюсь это того стоит!	y
-src/characters/mushroom.lua:2		Srop M.	Сроп М.	
+src/characters/mushroom.lua:2		Srop M.	Сроп М.	д
 src/characters/saimi.lua:2		Saimi	Саими	y
 src/characters/saimi.lua:31 (+2 others)	dialogue	Moi	Хай	y
 src/characters/saimi.lua:32	dialogue	Get past level ${count}, and you're free.	Пройди ${count}-й уровень, и ты свободна.	y
@@ -137,44 +137,44 @@ src/characters/tutorial_character.lua:39	dialogue	You're dead!	Ты мертва
 src/characters/tutorial_character.lua:40	dialogue	Or asleep!	Или спишь!	y
 src/characters/tutorial_character.lua:41	dialogue	... Either way, you won't remember this :)	... В любом случае, ты это не запомнишь :)	y
 src/characters/tutorial_character.lua:42	dialogue	Now let's play.\nRoll the dice.	А теперь давай играть. Брось кубики.	y
-src/characters/tutorial_character.lua:59	dialogue	Good. You gained some points.	Молодец. Ты заработала очков.	y
-src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BANK them.	Они не в безопасности, пока ты их не положишь в БАНК.	y
-src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	У вас есть ${TURNS} ходов, чтобы достичь своей цели.\nВаш ход завершается.	
-src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	Чем больше комбо, тем больше награда.	
-src/characters/tutorial_character.lua:69		<- See what combos are available up here	<- Посмотрите, какие комбинации доступны здесь	
-src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Бросайте пустые кубики и продолжайте!	
-src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select	А ещё, вы можете удерживать и перетаскивать левую кнопку мыши, чтобы выделить область.	
-src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	Каждый раз, когда вы набираете больше комбо за ход, вы получаете импульс.	
-src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score	Накопленный импульс дает вам дополнительные очки и множитель к вашему следующему результату.	
-src/characters/tutorial_character.lua:109	dialogue	Your momentum is reset to zero at the start of each Turn.	В начале каждого поворота ваш импульс обнуляется.	
-src/characters/tutorial_character.lua:119	dialogue	You've hit the target!	Вы попали в цель!	
-src/characters/tutorial_character.lua:120	dialogue	BANK your Points to complete the level.	Накопите свои очки, чтобы завершить уровень.	
-src/characters/tutorial_character.lua:130	dialogue	You made it through the first level!	Вы успешно прошли первый уровень!	
-src/characters/tutorial_character.lua:131	dialogue	Between levels, you'll visit The Shop, buy Trinkets, Snacks and Spells.\nAll the fun stuff.	Между уровнями вы посетите Магазин, где сможете купить безделушки, закуски и заклинания.\nВсё самое интересное.	
-src/characters/tutorial_character.lua:155		combo	комбо	
-src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	Это ${combo_label}!	
-src/characters/tutorial_character.lua:157	dialogue	Select and score it!	Выберите и оцените его!	
-src/characters/tutorial_character.lua:169	dialogue	Nice, those Points are safe now.	Отлично, теперь эти очки в безопасности.	
-src/characters/tutorial_character.lua:170	dialogue	BANK refilled your Bust meter.	БАНК пополнил ваш счетчик банкротства.	
-src/characters/tutorial_character.lua:173	dialogue	You have $TURNS BANKS left, so make sure you only BANK when you need to!	У вас осталось $TURNS BANKS, поэтому пользуйтесь банковскими услугами только тогда, когда это действительно необходимо!	
-src/characters/tutorial_character.lua:186	dialogue	Red sides are BUST! If you roll too many, you will WIPE!	Красные стороны — это провал! Если выпадет слишком много, вы проиграете!	
-src/characters/tutorial_character.lua:192		<- BUST meter here	<- Здесь индикатор перегрузки	
-src/characters/tutorial_character.lua:206	dialogue	One more BUST and you'll WIPE!	Ещё один провал, и ты вытрёшься!	
-src/characters/tutorial_character.lua:207	dialogue	Consider BANKing your points now to keep them safe.	Рассмотрите возможность сохранения ваших баллов в банке прямо сейчас, чтобы обеспечить их сохранность.	
-src/characters/tutorial_character.lua:219	dialogue	Now that you accumulated some points try banking!	Теперь, когда вы накопили немного баллов, попробуйте воспользоваться банковскими услугами!	
-src/characters/tutorial_character.lua:220	dialogue	Each time you BANK, you use up a Turn.	Каждый раз, когда вы совершаете BANK, вы используете ход.	
-src/characters/tutorial_character.lua:221	dialogue	When you run out of Turns, the game ends.	Когда у вас заканчиваются ходы, игра заканчивается.	
-src/characters/tutorial_character.lua:225		See turns left here ->	Здесь видны повороты налево ->	
-src/characters/tutorial_character.lua:231		<- Click here to bank	<- Нажмите здесь, чтобы перейти на банковский счет	
-src/characters/tutorial_character.lua:242	dialogue	You rolled too many BUSTs!	Ты слишком часто проваливал!	
-src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked Points gone!	Всё пропало! Все невостребованные баллы исчезли!	
-src/characters/tutorial_character.lua:245	dialogue	Don't worry, it happens.	Не волнуйтесь, такое случается.	
-src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)	В следующий раз вам следует воспользоваться банковским счетом до того, как это произойдет :)	
-src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...	Ах. Да...	
-src/characters/tutorial_character.lua:261	dialogue	Instant WIPE	Мгновенное протирание	
-src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.	Если ВСЕ выпавшие вами КУБИКИ ПРОВАЛИЛИСЬ, ваш ход немедленно заканчивается.	
-src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!	При броске одной игральной кости вероятность этого очень высока, но это может произойти при любом броске!	
-src/characters/tutorial_character.lua:276	dialogue	This is your last turn.	Это ваш последний ход.	
+src/characters/tutorial_character.lua:59	dialogue	Good. You gained some points.	Молодец. Ты заработала очки.	y
+src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BANK them.	Они не в безопасности, пока ты их не СБЕРЕЖЕШЬ.	y
+src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	У тебя есть ${TURNS} ходов, чтобы достичь цели.\nСБЕРЕЖЕНИЕ очков завершает твой ход.	д
+src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	Чем больше Комбо, тем больше награда.	д
+src/characters/tutorial_character.lua:69		<- See what combos are available up here	<- Здесь ты можешь увидеть доступные Комбо	д
+src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Бросай пустые кубики и продолжай!	
+src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select	И ещё, ты можешь выбрать область зажав левую кнопку мыши.	д
+src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	Каждый раз как ты защитываешь Комбо, ты получаешь инерцию.	д
+src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score	Инерция дает дополнительные Очки и Множитель ко следующему счету.	д
+src/characters/tutorial_character.lua:109	dialogue	Your momentum is reset to zero at the start of each Turn.	В начале каждого хода твоя инерция обнуляется.	д
+src/characters/tutorial_character.lua:119	dialogue	You've hit the target!	Ты достигла цели!	д
+src/characters/tutorial_character.lua:120	dialogue	BANK your Points to complete the level.	СБЕРЕГИ свои очки, чтобы завершить уровень.	д
+src/characters/tutorial_character.lua:130	dialogue	You made it through the first level!	Ты прошла первый уровень!	д
+src/characters/tutorial_character.lua:131	dialogue	Between levels, you'll visit The Shop, buy Trinkets, Snacks and Spells.\nAll the fun stuff.	Между уровнями ты посетишь Магазин, где ты можешь купить Безделушки, Закуски и Заклинания.\nВсё самое интересное.	д
+src/characters/tutorial_character.lua:155		combo	комбо	д
+src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	Это ${combo_label}!	д
+src/characters/tutorial_character.lua:157	dialogue	Select and score it!	Выбери Комбо и защитай его!	д
+src/characters/tutorial_character.lua:169	dialogue	Nice, those Points are safe now.	Класс, теперь эти очки в безопасности.	д
+src/characters/tutorial_character.lua:170	dialogue	BANK refilled your Bust meter.	СБЕРЕЖЕНИЕ пополнило твой счетчик Бастов.	д
+src/characters/tutorial_character.lua:173	dialogue	You have $TURNS BANKS left, so make sure you only BANK when you need to!	У тебя осталось $TURNS СБЕРЕЖЕНИЯ, так что пользуйся только тогда, когда необходимо!	д
+src/characters/tutorial_character.lua:186	dialogue	Red sides are BUST! If you roll too many, you will WIPE!	Красные стороны это БАСТ! Если выпадет слишком много, получишь ПРОВАЛ!	д
+src/characters/tutorial_character.lua:192		<- BUST meter here	<- Здесь счетчик БАСТОВ	д
+src/characters/tutorial_character.lua:206	dialogue	One more BUST and you'll WIPE!	Ещё один БАСТ, и ты получишь ПРОВАЛ!	д
+src/characters/tutorial_character.lua:207	dialogue	Consider BANKing your points now to keep them safe.	Подумай, не хочешь ли СБЕРЕЧЬ свои очки, чтобы сохранить их.	д
+src/characters/tutorial_character.lua:219	dialogue	Now that you accumulated some points try banking!	Раз ты накопила немного очков, попробуй СБЕРЕЧЬ их!	д
+src/characters/tutorial_character.lua:220	dialogue	Each time you BANK, you use up a Turn.	Каждый раз как ты СБЕРЕГАЕШЬ очки, ты тратишь Ход.	д
+src/characters/tutorial_character.lua:221	dialogue	When you run out of Turns, the game ends.	Когда у тебя нет больше Ходов, игра заканчивается.	д
+src/characters/tutorial_character.lua:225		See turns left here ->	Здесь показаны оставшиеся ходы ->	д
+src/characters/tutorial_character.lua:231		<- Click here to bank	<- Нажмите сюда, чтобы сберечь очки	д
+src/characters/tutorial_character.lua:242	dialogue	You rolled too many BUSTs!	Ты набрала слишком много БАСТОВ!	д
+src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked Points gone!	Это ПРОВАЛ! Все не сбереженные очки пропали!	д
+src/characters/tutorial_character.lua:245	dialogue	Don't worry, it happens.	Не волнуйся, бывает.	д
+src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)	В следующий раз СБЕРЕГИ очки до того, как это произойдет :)	д
+src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...	Ах. Да...	д
+src/characters/tutorial_character.lua:261	dialogue	Instant WIPE	Полный ПРОВАЛ	д
+src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.	Если на ВСЕХ КУБИКАХ выпал БАСТ, твой Ход сразу заканчивается.	д
+src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!	Бросок одного кубика делает это довольно вероятным, но это может произойти при любом броске!	д
+src/characters/tutorial_character.lua:276	dialogue	This is your last turn.	Это твой последний ход.	д
 src/characters/tutorial_character.lua:277	dialogue	You have to go all in now, no point in BANKing early.	Нужно вложить все средства прямо сейчас, нет смысла делать ставки на раннем этапе.	
 src/characters/tutorial_character.lua:278	dialogue	You can still do it!	Вы всё ещё можете это сделать!	
 src/characters/tutorial_character.lua:288	dialogue	Well, you failed the tutorial.	Что ж, вы не прошли обучение.	
