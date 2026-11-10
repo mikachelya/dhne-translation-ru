@@ -175,46 +175,46 @@ src/characters/tutorial_character.lua:261	dialogue	Instant WIPE	Полный П�
 src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.	Если на ВСЕХ КУБИКАХ выпал БАСТ, твой Ход сразу заканчивается.	д
 src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!	Бросок одного кубика делает это довольно вероятным, но это может произойти при любом броске!	д
 src/characters/tutorial_character.lua:276	dialogue	This is your last turn.	Это твой последний ход.	д
-src/characters/tutorial_character.lua:277	dialogue	You have to go all in now, no point in BANKing early.	Нужно вложить все средства прямо сейчас, нет смысла делать ставки на раннем этапе.	
-src/characters/tutorial_character.lua:278	dialogue	You can still do it!	Вы всё ещё можете это сделать!	
-src/characters/tutorial_character.lua:288	dialogue	Well, you failed the tutorial.	Что ж, вы не прошли обучение.	
-src/characters/tutorial_character.lua:289	dialogue	I'll bring you back this time.	На этот раз я тебя верну.	
-src/characters/tutorial_character.lua:293	dialogue	Be better.	Стань лучше.	
-src/characters/tutorial_character.lua:302	dialogue	Welp.	Ну что ж.	
-src/characters/tutorial_character.lua:303	dialogue	Pretty good for the first go.	Для первой попытки получилось неплохо.	
-src/characters/tutorial_character.lua:305	dialogue	I didn't explain it all but you're a smart cookie.	Я не всё объяснила, но ты очень умный человек.	
-src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	Остальное вы сможете понять сами.	
-src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	Увидимся в настоящей игре.	
-src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	Помните, удача играет роль. Грамотность имеет большее значение.	
-src/characters/wizard.lua:2		Wizard	Волшебник	
-src/characters/wizard.lua:43		Wizard 2	Волшебник 2	
-src/characters/wizard.lua:51		Wizard 3	Волшебник 3	
-src/characters/wizard.lua:70	dialogue	Get to level 7, and you're free.	Достигните 7-го уровня, и вы свободны.	
-src/characters/wizard.lua:73	dialogue	Get to level 10, and you're free.	Достигните 10-го уровня, и вы свободны.	
-src/characters/wizard.lua:189	dialogue	...Want to see a magic trick?	...Хотите увидеть фокус?	
-src/characters/wizard.lua:197	dialogue	Boo :)	Бу :)	
-src/characters/wizard.lua:210	dialogue	Tada!	Та-да!	
-src/coloured_text.lua:8 (+115 others)		bust	бюст	
-src/coloured_text.lua:12		wipe	вытирать	
-src/coloured_text.lua:14		instant	мгновенный	
-src/coloured_text.lua:16		turn	повернуть	
-src/coloured_text.lua:20		turns	повороты	
-src/coloured_text.lua:24 (+2 others)		bank	банк	
-src/coloured_text.lua:31 (+5 others)		points	баллы	
-src/coloured_text.lua:35 (+9 others)		mult	много	
-src/coloured_text.lua:39 (+7 others)		bonus	бонус	
-src/coloured_text.lua:43 (+5 others)		debust	дебуст	
-src/coloured_text.lua:46 (+17 others)		pig	свинья	
-src/coloured_text.lua:49 (+10 others)	ui	power	власть	
-src/coloured_text.lua:52		golden	золотой	
-src/coloured_text.lua:58 (+3 others)		coin	монета	
-src/coloured_text.lua:61		coins	монеты	
-src/coloured_text.lua:73		shield	щит	
-src/coloured_text.lua:77 (+7 others)		skip	пропускать	
-src/coloured_text.lua:80 (+2 others)		mirror	зеркало	
-src/coloured_text.lua:83 (+23 others)		cracked	треснул	
-src/coloured_text.lua:86 (+2 others)		hardy	выносливый	
-src/coloured_text.lua:89 (+5 others)		doom	рок	
+src/characters/tutorial_character.lua:277	dialogue	You have to go all in now, no point in BANKing early.	Пора дать свое все, нет смысла СБЕРЕГАТЬ заранее.	д
+src/characters/tutorial_character.lua:278	dialogue	You can still do it!	Ты всё ещё можешь справиться!	д
+src/characters/tutorial_character.lua:288	dialogue	Well, you failed the tutorial.	Что ж, ты не прошла обучение.	д
+src/characters/tutorial_character.lua:289	dialogue	I'll bring you back this time.	На этот раз я тебя воскрешу.	д
+src/characters/tutorial_character.lua:293	dialogue	Be better.	Старайся лучше.	д
+src/characters/tutorial_character.lua:302	dialogue	Welp.	Ну что ж.	д
+src/characters/tutorial_character.lua:303	dialogue	Pretty good for the first go.	Для первой попытки вполне неплохо.	д
+src/characters/tutorial_character.lua:305	dialogue	I didn't explain it all but you're a smart cookie.	Я не всё объяснила, но ты умница.	д
+src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	С остальным сама разберешься.	д
+src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	Увидимся в настоящей игре.	д
+src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	Помни, удача играет роль. Здравый смысл играет бо́льшую.	д
+src/characters/wizard.lua:2		Wizard	Волшебник	д
+src/characters/wizard.lua:43		Wizard 2	Волшебник 2	д
+src/characters/wizard.lua:51		Wizard 3	Волшебник 3	д
+src/characters/wizard.lua:70	dialogue	Get to level 7, and you're free.	Доберись до 7-го уровня, и ты свободна.	д
+src/characters/wizard.lua:73	dialogue	Get to level 10, and you're free.	Доберись до 10-го уровня, и ты свободна.	д
+src/characters/wizard.lua:189	dialogue	...Want to see a magic trick?	...Хочешь фокус?	д
+src/characters/wizard.lua:197	dialogue	Boo :)	Ууу :)	д
+src/characters/wizard.lua:210	dialogue	Tada!	Та-да!	д
+src/coloured_text.lua:8 (+115 others)		bust	баст	д
+src/coloured_text.lua:12		wipe	провал	д
+src/coloured_text.lua:14		instant	полный	д
+src/coloured_text.lua:16		turn	ход	д
+src/coloured_text.lua:20		turns	хоыд	д
+src/coloured_text.lua:24 (+2 others)		bank	сберечь	д
+src/coloured_text.lua:31 (+5 others)		points	очки	д
+src/coloured_text.lua:35 (+9 others)		mult	множитель	д
+src/coloured_text.lua:39 (+7 others)		bonus	бонус	д
+src/coloured_text.lua:43 (+5 others)		debust	дебаст	д
+src/coloured_text.lua:46 (+17 others)		pig	свинья	д
+src/coloured_text.lua:49 (+10 others)	ui	power	сила	д
+src/coloured_text.lua:52		golden	золото	д
+src/coloured_text.lua:58 (+3 others)		coin	монетка	д
+src/coloured_text.lua:61		coins	монетки	д
+src/coloured_text.lua:73		shield	щит	д
+src/coloured_text.lua:77 (+7 others)		skip	пропуск	д
+src/coloured_text.lua:80 (+2 others)		mirror	зеркало	д
+src/coloured_text.lua:83 (+23 others)		cracked	тресчина	д
+src/coloured_text.lua:86 (+2 others)		hardy	выносливость	
+src/coloured_text.lua:89 (+5 others)		doom	суд	д
 src/coloured_text.lua:92 (+1 others)		negative	отрицательный	
 src/coloured_text.lua:95 (+10 others)		stuck	застрявший	
 src/coloured_text.lua:98 (+2 others)		empty	пустой	
