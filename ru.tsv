@@ -213,114 +213,114 @@ src/coloured_text.lua:73		shield	щит	д
 src/coloured_text.lua:77 (+7 others)		skip	пропуск	д
 src/coloured_text.lua:80 (+2 others)		mirror	зеркало	д
 src/coloured_text.lua:83 (+23 others)		cracked	тресчина	д
-src/coloured_text.lua:86 (+2 others)		hardy	выносливость	
+src/coloured_text.lua:86 (+2 others)		hardy	выносливость	д
 src/coloured_text.lua:89 (+5 others)		doom	суд	д
-src/coloured_text.lua:92 (+1 others)		negative	отрицательный	
-src/coloured_text.lua:95 (+10 others)		stuck	застрявший	
-src/coloured_text.lua:98 (+2 others)		empty	пустой	
+src/coloured_text.lua:92 (+1 others)		negative	негатив	д
+src/coloured_text.lua:95 (+10 others)		stuck	липучка	д
+src/coloured_text.lua:98 (+2 others)		empty	пустота	д
 src/coloured_text.lua:136		clear	прозрачный	
-src/display_loc.lua:3		Normal	Нормальный	
-src/display_loc.lua:4		Pixel	Пиксель	
+src/display_loc.lua:3		Normal	Нормальный	д
+src/display_loc.lua:4		Pixel	Пиксель	д
 src/endings/alley.lua:56 (+1 others)		hit that shit	Заткнись, к черту!	
-src/endings/alley.lua:101	dialogue	at least the tooth fairy will come	По крайней мере, зубная фея придёт.	
-src/endings/alley.lua:102	dialogue	i haven't lost my baby teeth yet	У меня ещё не выпали молочные зубы	
-src/endings/alley.lua:103	dialogue	because i don't have baby teeth	потому что у меня нет молочных зубов	
-src/endings/alley.lua:104 (+1 others)	dialogue	because i am god	потому что я — Бог	
-src/endings/alley.lua:108	dialogue	being late to the dentist is always a bit risky	Опоздать к стоматологу всегда немного рискованно.	
-src/endings/alley.lua:109	dialogue	have you been brushing?	Вы чистите зубы?	
-src/endings/alley.lua:110	dialogue	i don't have to brush my teeth	Мне не нужно чистить зубы.	
+src/endings/alley.lua:101	dialogue	at least the tooth fairy will come	по крайней мере, зубная фея придёт	д
+src/endings/alley.lua:102	dialogue	i haven't lost my baby teeth yet	у меня ещё не выпали молочные зубы	д
+src/endings/alley.lua:103	dialogue	because i don't have baby teeth	потому что у меня нет молочных зубов	д
+src/endings/alley.lua:104 (+1 others)	dialogue	because i am god	потому что я Бог	д
+src/endings/alley.lua:108	dialogue	being late to the dentist is always a bit risky	опоздать к стоматологу немного рискованно	д
+src/endings/alley.lua:109	dialogue	have you been brushing?	ты чистишь?	д
+src/endings/alley.lua:110	dialogue	i don't have to brush my teeth	мне не приходится чистить зубы.	д
 src/endings/boardroom.lua:29		hit da bricks	упасть в пропасть	
-src/endings/boardroom.lua:163	dialogue	honestly	честно	
-src/endings/boardroom.lua:164	dialogue	that wasn't very stonks of you	Это было не очень-то хорошо с вашей стороны.	
-src/endings/boardroom.lua:165	dialogue	but it was brave	но это было смело	
+src/endings/boardroom.lua:163	dialogue	honestly	честно	д
+src/endings/boardroom.lua:164	dialogue	that wasn't very stonks of you	это был не оучший бизнес с твоей стороны	д
+src/endings/boardroom.lua:165	dialogue	but it was brave	но это было смело	д
 src/endings/cool_fish.lua:29		lets hit that shit	Давай зажжем!	
-src/endings/cool_fish.lua:132	dialogue	wheels can't take you away from me	Колеса не смогут тебя от меня увезти.	
-src/endings/cool_fish.lua:134	dialogue	pretty sick whip tho ngl	Довольно крутая тачка, честно говоря.	
+src/endings/cool_fish.lua:132	dialogue	wheels can't take you away from me	колёса не смогут тебя от меня увезти	д
+src/endings/cool_fish.lua:134	dialogue	pretty sick whip tho ngl	но крутая тачка, честно говоря	д
 src/endings/dog.lua:67		throw that shit	выбросьте эту дрянь	
-src/endings/dog.lua:129	dialogue	what a good boy	Какой хороший мальчик!	
-src/endings/dog.lua:130	dialogue	i am neither good nor bad	Я не хороший и не плохой.	
-src/endings/god.lua:65	dialogue	it was very brave of you to come back	Это было очень смело с вашей стороны — вернуться.	
-src/endings/god.lua:66	dialogue	again	снова	
-src/endings/god.lua:68	dialogue	and i am god	и я — Бог	
-src/endings/guy.lua:158	dialogue	have you looked into a mirror recently?	Вы недавно смотрели в зеркало?	
-src/endings/guy.lua:159	dialogue	what do you see?	Что вы видите?	
-src/endings/guy.lua:160	dialogue	i see my bravest child	Я вижу своего самого храброго ребёнка	
+src/endings/dog.lua:129	dialogue	what a good boy	хороший мальчик	д
+src/endings/dog.lua:130	dialogue	i am neither good nor bad	я не хороший и не плохой	д
+src/endings/god.lua:65	dialogue	it was very brave of you to come back	вернуться - это очень смело с твоей стороны	д
+src/endings/god.lua:66	dialogue	again	опять	д
+src/endings/god.lua:68	dialogue	and i am god	и я - Бог	д
+src/endings/guy.lua:158	dialogue	have you looked into a mirror recently?	ты недавно смотрела в зеркало?	д
+src/endings/guy.lua:159	dialogue	what do you see?	что ты видишь?	д
+src/endings/guy.lua:160	dialogue	i see my bravest child	я вижу своего самого храброго ребёнка	д
 src/endings/hotdog.lua:29		absolutely hit that shit	точно заткнись!	
-src/endings/hotdog.lua:75	dialogue	finally some good fucking food	Наконец-то хоть какая-то хорошая, блядь, еда!	
-src/endings/king_fetus.lua:52		nope nope nope	нет нет нет	
-src/endings/liz.lua:129	dialogue	how did you do?	Как у вас всё прошло?	
-src/endings/liz.lua:130	dialogue	in the test, i mean	в тесте, я имею в виду	
-src/endings/liz.lua:131	dialogue	we all pass\nin one way or another	Все мы проходим мимо в том или ином направлении	
-src/endings/liz.lua:132	dialogue	eventually	в конце концов	
-src/endings/marooned.lua:75	dialogue	i am your salvation	Я — твоё спасение	
-src/endings/marooned.lua:76	dialogue	you are not drowning	Ты не тонешь	
-src/endings/party.lua:130	dialogue	You finished the Shallows!	Вы прошли Мелководье!	
-src/endings/party.lua:131	dialogue	Unlock the next Depth from Star Guts for a bigger challenge.	Откройте следующую локацию «Глубина» в локации «Звёздные кишки», чтобы столкнуться с ещё более серьёзным испытанием.	
-src/endings/tooth_fairy.lua:129	dialogue	so the tooth fairy smokes now	Так что теперь зубная фея курит.	
-src/endings/tooth_fairy.lua:130	dialogue	i knew it	Я знал это	
-src/endings/tooth_fairy.lua:132	dialogue	i know everything	Я всё знаю	
-src/entities/bad_teeth_mode.lua:35		Bad Teeth: ${count}/${limit}	Плохие зубы: ${count}/${limit}	
+src/endings/hotdog.lua:75	dialogue	finally some good fucking food	наконец хоть какая-то, блин, хорошая еда	д
+src/endings/king_fetus.lua:52		nope nope nope	нет нет нет	д
+src/endings/liz.lua:129	dialogue	how did you do?	как у тебя всё прошло?	д
+src/endings/liz.lua:130	dialogue	in the test, i mean	на тесте, я имею в виду	д
+src/endings/liz.lua:131	dialogue	we all pass\nin one way or another	мы все сдаём\nтак или иначе	д
+src/endings/liz.lua:132	dialogue	eventually	в конце концов	д
+src/endings/marooned.lua:75	dialogue	i am your salvation	я твоё спасение	д
+src/endings/marooned.lua:76	dialogue	you are not drowning	ты не тонешь	д
+src/endings/party.lua:130	dialogue	You finished the Shallows!	Ты прошла Мелководье!	д
+src/endings/party.lua:131	dialogue	Unlock the next Depth from Star Guts for a bigger challenge.	Открой следующую Глубину в Звёздных Кишках, чтобы отведать бо́льшее испытание.	д
+src/endings/tooth_fairy.lua:129	dialogue	so the tooth fairy smokes now	зубная фея теперь курит	д
+src/endings/tooth_fairy.lua:130	dialogue	i knew it	я так и знала	д
+src/endings/tooth_fairy.lua:132	dialogue	i know everything	я знаю всё	д
+src/entities/bad_teeth_mode.lua:35		Bad Teeth: ${count}/${limit}	Плохие Зубы: ${count}/${limit}	
 src/entities/buttons_clump.lua:23 (+6 others)		inactive	неактивный	
-src/entities/buttons_clump.lua:51 (+4 others)		score	счет	
-src/entities/buttons_clump.lua:53 (+4 others)		deselect	снять выделение	
-src/entities/buttons_clump.lua:55 (+4 others)		select	выбирать	
-src/entities/buttons_clump.lua:107 (+1 others)		Score	Счет	
-src/entities/buttons_clump.lua:108		Scoring adds points and clears all dice in the combo	Подсчет очков добавляет баллы и обнуляет все кубики в комбинации.	
-src/entities/buttons_clump.lua:110		Select All	Выбрать все	
-src/entities/buttons_clump.lua:111		Select your dice to score them or roll them	Выберите кубики, чтобы подсчитать очки или бросить их.	
-src/entities/buttons_clump.lua:113		Deselect	Снять выделение	
-src/entities/buttons_clump.lua:114		Deselect everything to make a new selection	Снимите выделение со всего списка, чтобы сделать новое выделение.	
+src/entities/buttons_clump.lua:51 (+4 others)		score	звсчитать	д
+src/entities/buttons_clump.lua:53 (+4 others)		deselect	снять выделение	д
+src/entities/buttons_clump.lua:55 (+4 others)		select	выбирать	д
+src/entities/buttons_clump.lua:107 (+1 others)		Score	Засчитать	д
+src/entities/buttons_clump.lua:108		Scoring adds points and clears all dice in the combo	Засяет добавляет очки и обнуляет все кубики в Комбо	д
+src/entities/buttons_clump.lua:110		Select All	Выбрать Все	д
+src/entities/buttons_clump.lua:111		Select your dice to score them or roll them	Выбери кубики, чтобы засчитать или бросить их	д
+src/entities/buttons_clump.lua:113		Deselect	Снять выделение	д
+src/entities/buttons_clump.lua:114		Deselect everything to make a new selection	Сними выделение чтобы сделать новое	д
 src/entities/buttons_clump.lua:182 (+4 others)		blank	пустой	
-src/entities/buttons_clump.lua:231 (+1 others)		Roll	Рулон	
-src/entities/buttons_clump.lua:234		Roll just the selected dice	Бросьте только выбранные кубики.	
-src/entities/buttons_clump.lua:236		Roll Blank	Рулонная заготовка	
-src/entities/buttons_clump.lua:237		Roll all blank dice	Бросьте все пустые кубики	
-src/entities/buttons_clump.lua:239		Roll All	Бросок всех	
-src/entities/buttons_clump.lua:240		Re-roll all your dice	Перебросьте все свои кубики	
-src/entities/buttons_clump.lua:323		any bust:\ninstant wipe:	любой бюст: мгновенная уборка:	
-src/entities/buttons_clump.lua:380 (+2 others)		no combo	нет комбинации	
+src/entities/buttons_clump.lua:231 (+1 others)		Roll	Бросить	д
+src/entities/buttons_clump.lua:234		Roll just the selected dice	Бросить только выбранные кубики	д
+src/entities/buttons_clump.lua:236		Roll Blank	Бросить пустые	д
+src/entities/buttons_clump.lua:237		Roll all blank dice	Бросить все пустые кубики	д
+src/entities/buttons_clump.lua:239		Roll All	Бросить Все	д
+src/entities/buttons_clump.lua:240		Re-roll all your dice	Перебросить все кубики	д
+src/entities/buttons_clump.lua:323		any bust:\ninstant wipe:	любой баст:\nполный провал:	д
+src/entities/buttons_clump.lua:380 (+2 others)		no combo	нет комбинации	д
 src/entities/cycle_baby.lua:7		Cycle Baby	Велопрогулка, малыш	
-src/entities/cycle_baby.lua:13		Cycle!	Цикл!	
-src/entities/dice.lua:208		Bust	Бюст	
-src/entities/dice.lua:217		Bonus\n+100 Points when scored	Бонус +100 баллов при начислении очков.	
-src/entities/dice.lua:227		Mult\n+2 Mult when scored	Множитель\n+2 Множитель при начислении очков	
-src/entities/dice.lua:237		Debust\n-1 Bust and -1 ♥ when scored	Дебуст\n-1 Бюст и -1 ♥ при начислении очков	
-src/entities/dice.lua:246		Pig\nReroll for instant points	Свинья\nПеребросьте кубик для получения мгновенных очков	
-src/entities/dice.lua:255		Negative\n-50 Points when scored	Отрицательные 50 баллов при начислении	
-src/entities/dice.lua:265		Power\nRecharge power when scored	Питание\nВосстанавливайте энергию при начислении очков	
-src/entities/dice.lua:274		Stuck\nCan't be rerolled	Застрял\nНевозможно перебросить	
-src/entities/dice.lua:283		Golden\n+1¥ when scored	Золотой +1¥ при забитом голе	
-src/entities/dice.lua:301		Skip\nRolls to the next value	Пропустить\nПереход к следующему значению	
-src/entities/dice.lua:310		Mirror\nCopies value of next clicked die	Зеркальное отображение\nКопирует значение следующего нажатого кубика	
-src/entities/dice.lua:319		Cracked\n -1 ♥ when rolled	Трещина\n -1 ♥ при сворачивании	
-src/entities/dice.lua:329		Empty\nCan't be rolled	Пусто. Не свернуть.	
-src/entities/dice.lua:338		Hardy\n+1 ♥ when rolled	Прочный\n+1 ♥ при сворачивании	
-src/entities/dice.lua:348		Doom\n-3♥ when rolled	Doom\n-3♥ при выпадении	
-src/entities/dice.lua:384 (+1 others)		colours	цвета	
-src/entities/dice.lua:392		pattern	шаблон	
-src/entities/dice.lua:623		CRACK	ТРЕСКАТЬСЯ	
-src/entities/dice.lua:1625 (+1 others)		puke	рвота	
+src/entities/cycle_baby.lua:13		Cycle!	Цикл!	д
+src/entities/dice.lua:208		Bust	Баст	д
+src/entities/dice.lua:217		Bonus\n+100 Points when scored	Бонус\n+100 Очков при засчете	д
+src/entities/dice.lua:227		Mult\n+2 Mult when scored	Множитель\n+2 Множителя при засчете	д
+src/entities/dice.lua:237		Debust\n-1 Bust and -1 ♥ when scored	Дебаст\n-1 Баст и -1 ♥ при засчете	д
+src/entities/dice.lua:246		Pig\nReroll for instant points	Свинья\nПеребрось кубик и сразу получи очки	д
+src/entities/dice.lua:255		Negative\n-50 Points when scored	Негатив\n-50 Очков при засчете	д
+src/entities/dice.lua:265		Power\nRecharge power when scored	Сила\nВосстанавливает силу при засчете	д
+src/entities/dice.lua:274		Stuck\nCan't be rerolled	Липучка\nНевозможно перебросить	д
+src/entities/dice.lua:283		Golden\n+1¥ when scored	Золото\n+1¥ при засчете	д
+src/entities/dice.lua:301		Skip\nRolls to the next value	Пропуск\nПерекатывается на следующее значение	д
+src/entities/dice.lua:310		Mirror\nCopies value of next clicked die	Зеркало\nКопирует значение следующего нажатого кубика	д
+src/entities/dice.lua:319		Cracked\n -1 ♥ when rolled	Трещина\n -1 ♥ при выпадении	д
+src/entities/dice.lua:329		Empty\nCan't be rolled	Пустота\nНе может выпасть	д
+src/entities/dice.lua:338		Hardy\n+1 ♥ when rolled	Выносливость\n+1 ♥ при выпадении	д
+src/entities/dice.lua:348		Doom\n-3♥ when rolled	Суд\n-3♥ при выпадении	д
+src/entities/dice.lua:384 (+1 others)		colours	цвета	д
+src/entities/dice.lua:392		pattern	узор	д
+src/entities/dice.lua:623		CRACK	ТРЕСК	д
+src/entities/dice.lua:1625 (+1 others)		puke	рвота	д
 src/entities/dice.lua:1648		Purged +	Очищено +	
 src/entities/dice.lua:1648		pukes	рвота	
-src/entities/dice.lua:2092 (+1 others)		chomp	чавканье	
+src/entities/dice.lua:2092 (+1 others)		chomp	чавк	
 src/entities/dice.lua:2216		permanent	постоянный	
 src/entities/dice_ending.lua:132		goop	липкая масса	
 src/entities/dice_ending.lua:324		sad	грустно	
 src/entities/dice_ending.lua:327 (+2 others)		cheer	радость	
-src/entities/dice_peek.lua:233		$value\n$effect	$value\n$effect	
-src/entities/dice_peek.lua:245		impatient	нетерпеливый	
-src/entities/dice_peek.lua:245		Impatient	Нетерпеливый	
-src/entities/dice_peek.lua:245		Nudges up everytime anything is rolled.	При каждом выпадении какого-либо предмета он смещается вверх.	
-src/entities/dice_peek.lua:246 (+1 others)		ghost	призрак	
-src/entities/dice_peek.lua:246		Disappears after being scored.	Исчезает после забитого гола.	
-src/entities/dice_peek.lua:247		cycle	цикл	
-src/entities/dice_peek.lua:247		Cycle	Цикл	
-src/entities/dice_peek.lua:247		Rolls to its next value.\nDamage on score.	Бросок кубика приводит к следующему значению.\nУрон начисляется за очки.	
-src/entities/dice_peek.lua:259 (+1 others)		Scores x	Баллы x	
-src/entities/dice_peek.lua:260		Scores multiple times.	Забивает несколько раз.	
-src/entities/dice_peek.lua:268		♥	♥	
-src/entities/dice_peek.lua:273		Dice live forever	Кубики живут вечно	
-src/entities/dice_peek.lua:273		Dice are mortal	Кости смертельны	
+src/entities/dice_peek.lua:233		$value\n$effect	$value\n$effect	д
+src/entities/dice_peek.lua:245		impatient	нетерпеливый	д
+src/entities/dice_peek.lua:245		Impatient	Нетерпеливый	д
+src/entities/dice_peek.lua:245		Nudges up everytime anything is rolled.	Значение увеличивается при любом броске 	д
+src/entities/dice_peek.lua:246 (+1 others)		ghost	призрачный	д
+src/entities/dice_peek.lua:246		Disappears after being scored.	Исчезает при засчете.	д
+src/entities/dice_peek.lua:247		cycle	цикл	д
+src/entities/dice_peek.lua:247		Cycle	Цикл	д
+src/entities/dice_peek.lua:247		Rolls to its next value.\nDamage on score.	Бросок гарантирует следующее число.\nПри засчете получает урон.	д
+src/entities/dice_peek.lua:259 (+1 others)		Scores x	Засчитывает x	д
+src/entities/dice_peek.lua:260		Scores multiple times.	Засчитывается несколько раз.	д
+src/entities/dice_peek.lua:268		♥	♥	д
+src/entities/dice_peek.lua:273		Dice live forever	Кубики живут вечно	д
+src/entities/dice_peek.lua:273		Dice are mortal	Кубики смертны	д
 src/entities/dice_pick.lua:7		Swap Dice	Обменяйте кости	
 src/entities/dice_pick.lua:20		Swap	Менять	
 src/entities/dice_pick.lua:21 (+1 others)		swap	менять	
@@ -330,23 +330,23 @@ src/entities/dice_pick.lua:79		take	брать
 src/entities/die_baby.lua:7		Die Baby	Умри, малыш	
 src/entities/dupe_baby.lua:7		Dupe Baby	Поддельный ребенок	
 src/entities/dupe_baby.lua:49		Duplicated!	Дубликат получен!	
-src/entities/encounter_timeline.lua:235		VICTORY	ПОБЕДА	
-src/entities/encounter_timeline.lua:242		FIGHT	ДРАТЬСЯ	
-src/entities/encounter_timeline.lua:280		Goal Reached	Цель достигнута	
-src/entities/encounter_timeline.lua:338		progress	прогресс	
-src/entities/encounter_timeline.lua:575		GOAL REACHED	ЦЕЛЬ ДОСТИГНУТА	
-src/entities/encounter_timeline.lua:576		${to_go} TO GO	${to_go} НА ВЫНОС	
+src/entities/encounter_timeline.lua:235		VICTORY	ПОБЕДА	д
+src/entities/encounter_timeline.lua:242		FIGHT	БОЙ	д
+src/entities/encounter_timeline.lua:280		Goal Reached	Цель Достигнута	д
+src/entities/encounter_timeline.lua:338		progress	прогресс	д
+src/entities/encounter_timeline.lua:575		GOAL REACHED	ЦЕЛЬ ДОСТИГНУТА	д
+src/entities/encounter_timeline.lua:576		${to_go} TO GO	ОСТАЛОСЬ ${to_go}	д
 src/entities/eye_baby.lua:7		Eye Baby	Глаз малыша	
-src/entities/eye_baby.lua:27		eye	глаз	
+src/entities/eye_baby.lua:27		eye	глаз	д
 src/entities/eye_baby.lua:33		Puked 	Вырвало	
-src/entities/eye_baby.lua:33		eye!	глаз!	
-src/entities/eye_baby.lua:33		eyes!	глаза!	
+src/entities/eye_baby.lua:33		eye!	глаз!	д
+src/entities/eye_baby.lua:33		eyes!	глаза!	д
 src/entities/fish_spawner.lua:71		fish border	рыбная граница	
-src/entities/fish_spawner.lua:195 (+1 others)		fish	рыба	
-src/entities/fish_spawner.lua:215		Cool Fish Available	В наличии прохладная рыба	
+src/entities/fish_spawner.lua:195 (+1 others)		fish	рыба	д
+src/entities/fish_spawner.lua:215		Cool Fish Available	Лоступна Крутая Рыба	д
 src/entities/fish_spawner.lua:247		bounds	границы	
-src/entities/ghost.lua:31 (+3 others)		float	плавать	
-src/entities/ghost.lua:32 (+1 others)		near	около	
+src/entities/ghost.lua:31 (+3 others)		float	плыть	д
+src/entities/ghost.lua:32 (+1 others)		near	около	д
 src/entities/ghost.lua:35 (+1 others)		die	умереть	
 src/entities/god.lua:12		body	тело	
 src/entities/god_shop.lua:68		CHOOSE	ВЫБИРАТЬ	
