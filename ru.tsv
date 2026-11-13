@@ -349,12 +349,12 @@ src/entities/ghost.lua:31 (+3 others)		float	плыть	д
 src/entities/ghost.lua:32 (+1 others)		near	около	д
 src/entities/ghost.lua:35 (+1 others)		die	умереть	
 src/entities/god.lua:12		body	тело	
-src/entities/god_shop.lua:68		CHOOSE	ВЫБИРАТЬ	
-src/entities/god_shop.lua:106 (+2 others)		food	еда	
-src/entities/god_shop.lua:107 (+2 others)		spell	заклинание	
+src/entities/god_shop.lua:68		CHOOSE	ВЫБИРАЙ	д
+src/entities/god_shop.lua:106 (+2 others)		food	еда	д
+src/entities/god_shop.lua:107 (+2 others)		spell	заклинание	д
 src/entities/god_shop.lua:477		reroll %d ¤	переброс %d ¤	
-src/entities/guts_background.lua:5		clouds	облака	
-src/entities/guts_background.lua:329		net	сеть	
+src/entities/guts_background.lua:5		clouds	облака	д
+src/entities/guts_background.lua:329		net	сеть	д
 src/entities/guts_background.lua:374		multiply	умножить	
 src/entities/item.lua:51		edible	съедобный	
 src/entities/item.lua:498		a to use spells	а) использовать заклинания	
@@ -707,7 +707,7 @@ src/items.lua:2151 (+2 others)		straight	прямой
 src/items.lua:2158		Bimber	Бимбер	
 src/items.lua:2161		+200 points for a Full House	+200 очков за фулл-хаус	
 src/items.lua:2175		Kind Berry Three	Добрая Ягода Три	
-src/items.lua:2178		+200 points for Three Of A Kind	+200 баллов за "Три одинаковых"	
+src/items.lua:2178		+200 points for Three Of A Kind	+200 баллов за Три одинаковых	
 src/items.lua:2192		Two Pair Cat	Две пары кошек	
 src/items.lua:2195		+200 points for hand containing Two Pair	+200 очков за руку, содержащую две пары.	
 src/items.lua:2209		Just A Pair	Всего пара	
@@ -725,7 +725,7 @@ src/items.lua:2299		x2 Mult for hand containing Four Of A Kind	x2 Мульти �
 src/items.lua:2320		Pink Top	Розовый топ	
 src/items.lua:2323		x2 Mult for any Straight	Умножение на 2 для любой прямой	
 src/items.lua:2338		Absinthe	Абсент	
-src/items.lua:2341		x2 Mult for Full House	Умножить на 2 для "Фулл Хаус"	
+src/items.lua:2341		x2 Mult for Full House	Умножить на 2 для Фулл Хаус	
 src/items.lua:2356		Three Legged Pirate	Трехногий пират	
 src/items.lua:2359		x2 Mult for Three Of A Kind	Умножить на 2 для трех одинаковых предметов	
 src/items.lua:2375 (+1 others)		Two Pair Mult Cat	Две пары кошек разных пород	
@@ -847,7 +847,7 @@ src/items.lua:3556		+5 Mult if the hand contains at least three 1s	+5 к мно�
 src/items.lua:3680		House Stamp	Штамп для дома	
 src/items.lua:3683		Rerolling a Three Of A Kind permanently upgrades Full House. Fades with use.	Повторное выпадение тройки навсегда улучшает фулл-хаус. Эффект ослабевает со временем.	
 src/items.lua:3698 (+1 others)		Faded	Блеклый	
-src/items.lua:3707		Full House Upgraded	Улучшенная версия "Полный дом"	
+src/items.lua:3707		Full House Upgraded	Улучшенная версия Полный дом	
 src/items.lua:3715		Stamp	Почтовая марка	
 src/items.lua:3718		Rerolling a combo upgrades it permanently. Fades with use.	Повторная перетасовка комбинации навсегда улучшает её. Со временем эффект ослабевает.	
 src/items.lua:3722		On Roll	В рулоне	
@@ -987,7 +987,7 @@ src/items.lua:5336		Combos containing Three Of A Kind -4 Mult	Комбинаци
 src/items.lua:5360		No Four Kind	Нет четырех видов	
 src/items.lua:5361		Four Of A Kind gives no score	В игре Four Of A Kind нет результатов.	
 src/items.lua:5386		No Full House	Нет полного дома	
-src/items.lua:5387		Full House gives no score	В игре "Полный дом" нет оценок.	
+src/items.lua:5387		Full House gives no score	В игре Полный дом нет оценок.	
 src/items.lua:5413		No Bonanza	Нет Бонанзы	
 src/items.lua:5414		Star Bonanza gives no score	Star Bonanza не выставляет оценку	
 src/items.lua:5440		Slippery 6s	Скользкие шестерки	
@@ -1550,7 +1550,7 @@ src/ui/help_screen.lua:74	ui	INFO DUMP :)	ИНФОРМАЦИОННЫЙ ШАГ :)
 src/ui/help_screen.lua:111 (+1 others)	ui	BUST	БЮСТ	
 src/ui/help_screen.lua:112	ui	Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.	На каждом кубике есть красная сторона, обозначающая «Провал».\nВыпадение красной стороны уменьшает ваш индикатор «Провал».\n\nЕсли индикатор «Провал» обнуляется, вы проигрываете.\nВсе незарезервированные очки исчезают, ход заканчивается.	
 src/ui/help_screen.lua:115	ui	ALL BUST - INSTANT WIPE	ALL BUST - МГНОВЕННОЕ ПРОМЫВАНИЕ	
-src/ui/help_screen.lua:116	ui	The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust	Самое сложное!\n\nЕсли все выпавшие одновременно кубики показывают "Провал",\nвы мгновенно проигрываете, независимо от значения шкалы "Провал".\n\nПример: 3 из 3 выпавших кубиков показали "Провал".	
+src/ui/help_screen.lua:116	ui	The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust	"Самое сложное!\n\nЕсли все выпавшие одновременно кубики показывают Провал,\nвы мгновенно проигрываете, независимо от значения шкалы Провал.\n\nПример: 3 из 3 выпавших кубиков показали Провал."	
 src/ui/help_screen.lua:119	ui	BANKING	БАНКОВСКОЕ ДЕЛО	
 src/ui/help_screen.lua:120	ui	BANK to lock in your points and refill the Bust meter.\nEach BANK ends your Turn.	Используйте BANK, чтобы зафиксировать свои очки и пополнить шкалу поражения.\nКаждый BANK завершает ваш ход.	
 src/ui/help_screen.lua:123	ui	TURN	ПОВЕРНУТЬ	
