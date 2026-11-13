@@ -368,13 +368,13 @@ src/item_unlocks.lua:91		get some variety in your diet	больше разноо
 src/item_unlocks.lua:100		Diet Culture	Культура питания	
 src/item_unlocks.lua:101		its real bad for you	Это очень вредно для тебя.	
 src/item_unlocks.lua:108		All In	Все в сборе	
-src/item_unlocks.lua:109		for when youve got nothing to lose	когда тебе нечего терять	
+src/item_unlocks.lua:109		for when youve got nothing to lose	когда тебе нечего терять	д
 src/item_unlocks.lua:118		Lover	Возлюбленный	
-src/item_unlocks.lua:119		everything to do with pairs	всё, что связано с парами	
-src/item_unlocks.lua:127		Multipliers	Множители	
-src/item_unlocks.lua:128		make number go bigger	увеличить число	
-src/item_unlocks.lua:136		Maximalist	Максималист	
-src/item_unlocks.lua:137		more dice more better	больше кубиков лучше	
+src/item_unlocks.lua:119		everything to do with pairs	всё, что связано с парами	д
+src/item_unlocks.lua:127		Multipliers	Множители	д
+src/item_unlocks.lua:128		make number go bigger	число	
+src/item_unlocks.lua:136		Maximalist	Максималист	д
+src/item_unlocks.lua:137		more dice more better	больше кубиков больше лучше	д
 src/item_unlocks.lua:145		Self Control	Самоконтроль	
 src/item_unlocks.lua:146		as if	как будто	
 src/item_unlocks.lua:154		Pain	Боль	
