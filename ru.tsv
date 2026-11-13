@@ -707,7 +707,7 @@ src/items.lua:2151 (+2 others)		straight	прямой
 src/items.lua:2158		Bimber	Бимбер	
 src/items.lua:2161		+200 points for a Full House	+200 очков за фулл-хаус	
 src/items.lua:2175		Kind Berry Three	Добрая Ягода Три	
-src/items.lua:2178		+200 points for Three Of A Kind	+200 баллов за "Три одинаковых"	
+src/items.lua:2178		+200 points for Three Of A Kind	+200 баллов за Три одинаковых	
 src/items.lua:2192		Two Pair Cat	Две пары кошек	
 src/items.lua:2195		+200 points for hand containing Two Pair	+200 очков за руку, содержащую две пары.	
 src/items.lua:2209		Just A Pair	Всего пара	
