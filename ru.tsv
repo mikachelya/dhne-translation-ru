@@ -192,7 +192,7 @@ src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	
 src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	Увидимся в настоящей игре.	д
 src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	Помни, удача играет роль. Здравый смысл играет бо́льшую.	д
 src/characters/wizard.lua:2		Wizard	Волшебник	д
-src/characters/wizard.lua:43		Soucerer	Чародей	д
+src/characters/wizard.lua:43		Soucerer	Чародей	
 src/characters/wizard.lua:50		Archmogus	Архимогус	д
 src/characters/wizard.lua:68	dialogue	Get to level 7, and you're free.	Доберись до 7-го уровня, и ты свободна.	д
 src/characters/wizard.lua:71	dialogue	Get to level 10, and you're free.	Доберись до 10-го уровня, и ты свободна.	д
@@ -211,7 +211,7 @@ src/coloured_text.lua:31 (+5 others)		points	очки	д
 src/coloured_text.lua:35 (+9 others)		mult	множитель	д
 src/coloured_text.lua:39 (+8 others)		bonus	бонус	д
 src/coloured_text.lua:43 (+5 others)		debust	дебаст	д
-src/coloured_text.lua:46 (+17 others)		pig	свинья	д
+src/coloured_text.lua:46 (+17 others)		pig	свинья	
 src/coloured_text.lua:49 (+10 others)	ui	power	сила	д
 src/coloured_text.lua:52		golden	золото	д
 src/coloured_text.lua:58 (+3 others)		coin	монетка	д
@@ -288,7 +288,7 @@ src/entities/dice.lua:212		Bust	Баст	д
 src/entities/dice.lua:221		Bonus\n+100 Points when scored	Бонус\n+100 Очков при засчете	д
 src/entities/dice.lua:231		Mult\n+2 Mult when scored	Множитель\n+2 Множителя при засчете	д
 src/entities/dice.lua:241		Debust\n-1 Bust and -1 ♥ when scored	Дебаст\n-1 Баст и -1 ♥ при засчете	д
-src/entities/dice.lua:250		Pig\nReroll for instant points	Свинья\nПеребрось кубик и сразу получи очки	д
+src/entities/dice.lua:250		Pig\nReroll for instant points	Свинья\nПеребрось кубик и сразу получи очки	
 src/entities/dice.lua:259		Negative\n-50 Points when scored	Негатив\n-50 Очков при засчете	д
 src/entities/dice.lua:269		Power\nRecharge power when scored	Сила\nВосстанавливает силу при засчете	д
 src/entities/dice.lua:278		Stuck\nCan't be rerolled	Липучка\nНевозможно перебросить	д
@@ -346,283 +346,283 @@ src/entities/title_text.lua:3		DICE HAVE\nNO EYES	У КУБИКОВ\nНЕТ ГЛ
 src/entities/title_text.lua:5		DICE HAVE\nNÕ EYES	У КУБИКОВ\nНẼТ ГЛАЗ	д
 src/entities/title_text.lua:6		DICE HAVE\nNÖ EYES	У КУБИКОВ\nНЁТ ГЛАЗ	д
 src/entities/title_text.lua:121		DEMO	ДЕМО	д
-src/item_unlocks.lua:6		Basic Spells	Базовые Заклинания	д
+src/item_unlocks.lua:6		Basic Spells	Базовые заклинания	д
 src/item_unlocks.lua:7		beginner magic	магия для начинающих	д
-src/item_unlocks.lua:15		Basic Passives	Базовые Пассивки	д
+src/item_unlocks.lua:15		Basic Passives	Базовые пассивки	д
 src/item_unlocks.lua:16		situational benefits	ситуационные преимущества	д
-src/item_unlocks.lua:24		Basic Combos	Базовые Комбо	д
-src/item_unlocks.lua:25		upgrade your faves	улучши любимое	д
+src/item_unlocks.lua:24		Basic Combos	Базовые комбо	д
+src/item_unlocks.lua:25		upgrade your faves	улучши свои любимые	д
 src/item_unlocks.lua:33		Basic Snacks	Простые закуски	д
 src/item_unlocks.lua:34		tasty treats for hungry dice	вкусняшки для голодных кубиков	д
-src/item_unlocks.lua:42		Basic Quests	Базовые Квесты	д
+src/item_unlocks.lua:42		Basic Quests	Базовые квесты	д
 src/item_unlocks.lua:53		Parenting	Воспитание	д
 src/item_unlocks.lua:54		life comes at you fast	жизнь преподносит сюрпризы	д
-src/item_unlocks.lua:61		Hold	Держать	
-src/item_unlocks.lua:62		HOLD!!!	ДЕРЖАТЬ!!!	
-src/item_unlocks.lua:72		Numerology	Нумерология	
+src/item_unlocks.lua:61		Hold	Держать	д
+src/item_unlocks.lua:62		HOLD!!!	ДЕРЖАТЬ!!!	д
+src/item_unlocks.lua:72		Numerology	Нумерология	д
 src/item_unlocks.lua:73		special numbers are special	особые числа — особые	д
-src/item_unlocks.lua:81		More Spells	Больше Заклинаний	д
+src/item_unlocks.lua:81		More Spells	Больше заклинаний	д
 src/item_unlocks.lua:82		advanced magic	продвинутая магия	д
-src/item_unlocks.lua:90		More Snacks	Больше Закусок	д
-src/item_unlocks.lua:91		get some variety in your diet	больше разнообразьте в твоей диете	д
-src/item_unlocks.lua:100		Diet Culture	Культура питания	
-src/item_unlocks.lua:101		its real bad for you	Это очень вредно для тебя.	
-src/item_unlocks.lua:108		All In	Все в сборе	
+src/item_unlocks.lua:90		More Snacks	Больше закусок	д
+src/item_unlocks.lua:91		get some variety in your diet	увеличь разнообразие в твоей диете	д
+src/item_unlocks.lua:100		Diet Culture	Культура диет	д
+src/item_unlocks.lua:101		its real bad for you	это очень вредно	д
+src/item_unlocks.lua:108		All In	Ва-банк	д
 src/item_unlocks.lua:109		for when youve got nothing to lose	когда тебе нечего терять	д
-src/item_unlocks.lua:118		Lover	Возлюбленный	
+src/item_unlocks.lua:118		Lover	Влюбленные	д
 src/item_unlocks.lua:119		everything to do with pairs	всё, что связано с парами	д
 src/item_unlocks.lua:127		Multipliers	Множители	д
-src/item_unlocks.lua:128		make number go bigger	число	
+src/item_unlocks.lua:128		make number go bigger	сделай часла больше	д
 src/item_unlocks.lua:136		Maximalist	Максималист	д
 src/item_unlocks.lua:137		more dice more better	больше кубиков больше лучше	д
-src/item_unlocks.lua:145		Self Control	Самоконтроль	
-src/item_unlocks.lua:146		as if	как будто	
-src/item_unlocks.lua:154		Pain	Боль	
-src/item_unlocks.lua:155		it hurts but in a good way	Больно, но в хорошем смысле.	
-src/item_unlocks.lua:164 (+1 others)		Comeback	Вернись	
-src/item_unlocks.lua:165		you've still got plenty left	У тебя ещё много осталось	
-src/item_unlocks.lua:174		Momentum	Импульс	
-src/item_unlocks.lua:175		chain combos forever	цепочные комбинации навсегда	
-src/item_unlocks.lua:183		Workaholic	Трудоголик	
-src/item_unlocks.lua:184		put your power back to work	Верните себе электроэнергию в строй.	
-src/item_unlocks.lua:193		Mind Expansion	Расширение сознания	
-src/item_unlocks.lua:194		gigabrained complicated nonsense	гигамозг сложная бессмыслица	
-src/item_unlocks.lua:203		Actualisation	Актуализация	
-src/item_unlocks.lua:204		get actualised	стать актуальным	
-src/item_unlocks.lua:212		Rich Man	Богатый человек	
-src/item_unlocks.lua:213		money money money	деньги $ деньги	
-src/item_unlocks.lua:222		Degenerate	Дегенерат	
-src/item_unlocks.lua:223		as luck would have it	Как назло, так и случилось.	
-src/item_unlocks.lua:232		Biscuit	Печенье	
-src/item_unlocks.lua:233		worth risking it for	Стоит рискнуть ради этого	
-src/item_unlocks.lua:241		Send It	Отправьте это	
-src/item_unlocks.lua:242		when in doubt go flat out	Когда сомневаетесь, действуйте на полную мощность.	
-src/item_unlocks.lua:251 (+1 others)		Ghost	Призрак	
-src/item_unlocks.lua:252		pretty spooky	довольно жутко	
-src/item_unlocks.lua:261 (+1 others)		Shield	Щит	
-src/item_unlocks.lua:262		bust protection	защита груди	
-src/item_unlocks.lua:271		Slow N Steady	Медленно и уверенно	
-src/item_unlocks.lua:272		gets you nowhere	это ни к чему не приводит	
-src/item_unlocks.lua:280		Patience	Терпение	
-src/item_unlocks.lua:281		a virtue	добродетель	
-src/item_unlocks.lua:290		Straights	Прямые	
-src/item_unlocks.lua:291		they're at it again	Они снова за своё взялись	
-src/item_unlocks.lua:299		Dumplings	Пельмени	
-src/item_unlocks.lua:300		yum yum in my tum	Ммм, как вкусно в животике!	
+src/item_unlocks.lua:145		Self Control	Самоконтроль	д
+src/item_unlocks.lua:146		as if	как будто	д
+src/item_unlocks.lua:154		Pain	Боль	д
+src/item_unlocks.lua:155		it hurts but in a good way	больно, но приятно	д
+src/item_unlocks.lua:164 (+1 others)		Comeback	Камбэк	д
+src/item_unlocks.lua:165		you've still got plenty left	Ты только начала	д
+src/item_unlocks.lua:174		Momentum	Инерция	д
+src/item_unlocks.lua:175		chain combos forever	комбо не прекращаемо	д
+src/item_unlocks.lua:183		Workaholic	Трудоголик	д
+src/item_unlocks.lua:184		put your power back to work	Верни свою силу	д
+src/item_unlocks.lua:193		Mind Expansion	Расширение Мозга	д
+src/item_unlocks.lua:194		gigabrained complicated nonsense	гигамозглая бессмыслица	д
+src/item_unlocks.lua:203		Actualisation	Актуализация	д
+src/item_unlocks.lua:204		get actualised	ха, актуализируйся	д
+src/item_unlocks.lua:212		Rich Man	Богатый человек	д
+src/item_unlocks.lua:213		money money money	деньги деньги деньги	д
+src/item_unlocks.lua:222		Degenerate	Деген	д
+src/item_unlocks.lua:223		as luck would have it	как назло	д
+src/item_unlocks.lua:232		Biscuit	Кто не рискует	д
+src/item_unlocks.lua:233		worth risking it for	тот не ест печенья	д
+src/item_unlocks.lua:241		Send It	Погнали	д
+src/item_unlocks.lua:242		when in doubt go flat out	сомневаешься — жми в упор	д
+src/item_unlocks.lua:251 (+1 others)		Ghost	Призрак	д
+src/item_unlocks.lua:252		pretty spooky	какая жуть	д
+src/item_unlocks.lua:261 (+1 others)		Shield	Щит	д
+src/item_unlocks.lua:262		bust protection	защита от бастов	д
+src/item_unlocks.lua:271		Slow N Steady	Тише едешь	д
+src/item_unlocks.lua:272		gets you nowhere	нигде не будешь	д
+src/item_unlocks.lua:280		Patience	Терпение	д
+src/item_unlocks.lua:281		a virtue	добродетель	д
+src/item_unlocks.lua:290		Straights	Стриты	д
+src/item_unlocks.lua:291		they're at it again	опять за своё	д
+src/item_unlocks.lua:299		Dumplings	Пельмешки	д
+src/item_unlocks.lua:300		yum yum in my tum	ням ням в животике	д
 src/item_unlocks.lua:308		Pig	Свинья	
-src/item_unlocks.lua:309		get greedy	стать жадным	
-src/item_unlocks.lua:319		Numeracy	Математическая грамотность	
-src/item_unlocks.lua:320		make the numbers behave	заставьте числа вести себя прилично	
-src/item_unlocks.lua:332		Shop Expansion	Расширение магазина	
-src/item_unlocks.lua:333		more items more good	Чем больше товаров, тем лучше.	
-src/item_unlocks.lua:341		Mega Shop	Мега-магазин	
-src/item_unlocks.lua:342		more items more items more items	больше товаров больше товаров больше товаров	
-src/item_unlocks.lua:352		More Funky Dice	Больше необычных игральных костей	
-src/item_unlocks.lua:353		Special Side Effects in shops!\nMult, Debust, Power and Cracked	Специальные побочные эффекты в магазинах!\nMult, Debust, Power и Cracked	
-src/item_unlocks.lua:361		Even More Dice	Ещё больше кубиков	
-src/item_unlocks.lua:362		Special Side Effects in shops!\nSkip, Mirror, Hardy and Doom	Специальные побочные эффекты уже в магазинах!\nСкип, Миррор, Харди и Дум	
-src/item_unlocks.lua:373		Fish Trinkets	Рыбные безделушки	
-src/item_unlocks.lua:374		from the sea	с моря	
-src/item_unlocks.lua:382		Sardine Magic	Магия сардин	
-src/item_unlocks.lua:383		abracadabra	абракадабра	
-src/item_unlocks.lua:390		Bans		
-src/item_unlocks.lua:391		ban item sets from your runs		
+src/item_unlocks.lua:309		get greedy	стань жадиной	д
+src/item_unlocks.lua:319		Numeracy	Математическая грамотность	д
+src/item_unlocks.lua:320		make the numbers behave	заставь числа себя вести	д
+src/item_unlocks.lua:332		Shop Expansion	Расширение магазина	д
+src/item_unlocks.lua:333		more items more good	больше товаров больше лучше.	д
+src/item_unlocks.lua:341		Mega Shop	Мега магазин	д
+src/item_unlocks.lua:342		more items more items more items	больше товаров больше товаров больше товаров	д
+src/item_unlocks.lua:352		More Funky Dice	Больше классных кубиков	д
+src/item_unlocks.lua:353		Special Side Effects in shops!\nMult, Debust, Power and Cracked	Специальные эффекты сторон в магазинах!\nМножитель, Дебаст, Сила и Трещина	д
+src/item_unlocks.lua:361		Even More Dice	Ещё больше кубиков	д
+src/item_unlocks.lua:362		Special Side Effects in shops!\nSkip, Mirror, Hardy and Doom	Специальные эффекты сторон в магазинах!\nПропуск, Зеркало, Выносливость и Суд	д
+src/item_unlocks.lua:373		Fish Trinkets	Рыбные безделушки	д
+src/item_unlocks.lua:374		from the sea	из моря	д
+src/item_unlocks.lua:382		Sardine Magic	Магия сардин	д
+src/item_unlocks.lua:383		abracadabra	абракадабра	д
+src/item_unlocks.lua:390		Bans	Бан	д
+src/item_unlocks.lua:391		ban item sets from your runs	исключи наборы предметов из своих забегов	д
 src/item_unlocks.lua:402 (+1 others)		Scoreboards	Табло	
-src/item_unlocks.lua:403 (+1 others)		be the goat	быть козлом	
-src/items.lua:10		Something fell from the sky	Что-то упало с неба.	
-src/items.lua:36		Power Limit Up	Ограничение мощности	
-src/items.lua:39		Power Limit +1	Ограничение мощности +1	
-src/items.lua:50		Power Limit +1!	Ограничение мощности +1!	
-src/items.lua:55		Trinket Limit Up	Лимит безделушек увеличен	
-src/items.lua:58		Trinket Limit +1	Лимит безделушек +1	
-src/items.lua:67		Trinket Limit +1!	Лимит безделушек +1!	
-src/items.lua:72		Dice Limit Up		
-src/items.lua:75		Dice Limit +1	Лимит кубиков +1	
-src/items.lua:84		Dice Limit +1!	Лимит кубиков +1!	
-src/items.lua:90		Coin Burst	Взрыв монеты	
-src/items.lua:93		+300 Points per coin you own	+300 очков за каждую имеющуюся у вас монету	
-src/items.lua:107 (+1 others)		No coins!	Монет не требуется!	
-src/items.lua:113		Ghost Jar	Банка с привидениями	
-src/items.lua:116		Spawn 3 ghost dice	Создайте 3 призрачных кубика	
-src/items.lua:134		Bust Shield	Щит бюста	
-src/items.lua:137		Bust Shield On	Защитный экран на груди включен	
-src/items.lua:147 (+5 others)		Shield!	Щит!	
-src/items.lua:153		Uplift	Подъем	
-src/items.lua:156		Nudge all dice +1 pip (no loop)	Сдвинуть все кубики на +1 точку (без зацикливания)	
-src/items.lua:169		+1 all	+1 всем	
-src/items.lua:174		Downshift	Переключение на пониженную передачу	
-src/items.lua:177		Nudge all dice -1 pip (no loop)		
-src/items.lua:191		-1 all	-1 все	
-src/items.lua:196		Clamp High	Зажим высоко	
-src/items.lua:199		All dice above 4 become 4	Все кубики, выпавшие больше 4, становятся равными 4.	
-src/items.lua:217		Clamp 4	Зажим 4	
-src/items.lua:222		Money Reroll	Переброс денег	
-src/items.lua:225		Reroll all dice, gain +1¥ per 6 rolled	Перебросьте все кубики, получите +1 ¥ за каждые выпавшие 6.	
-src/items.lua:256 (+1 others)		Unlucky	Неудачник	
-src/items.lua:267		Money Reroll II	Money Reroll II	
-src/items.lua:270		Reroll all dice, gain +2¥ per 1 rolled	Перебросьте все кубики, получите +2 ¥ за каждый выпавший 1 бросок.	
-src/items.lua:315		Piggy Bank	Копилка	
-src/items.lua:318		Gain 1¥ per Momentum and clear it	Получайте 1 йену за каждый импульс и очищайте его.	
-src/items.lua:330		No momentum!	Нет импульса!	
-src/items.lua:342		GOTTA GO FAST	НУЖНО БЫСТРО ДОБРАТЬСЯ	
-src/items.lua:345		Momentum x2	Импульс x2	
-src/items.lua:354		x2 momentum	x2 импульс	
-src/items.lua:359		Peek	Взгляни	
-src/items.lua:362		Gain 1¥ per die showing 1	Получайте 1 йену за каждый выпавший на кубике 1.	
-src/items.lua:384 (+2 others)		No 1s!	Нет единиц!	
-src/items.lua:390		Peek II	Пик II	
-src/items.lua:393		Gain 1¥ per die showing 3	Получайте 1 йену за каждую выпавшую на кубике тройку.	
-src/items.lua:415		No 3s!	Никаких троек!	
-src/items.lua:424		-1 Bust per die showing 1	-1 Бюст на кубике, показывающий 1	
-src/items.lua:450		Scratchie	Скретчи	
-src/items.lua:453		Gain 0-3¥		
-src/items.lua:470 (+1 others)		Nothing!	Ничего!	
-src/items.lua:476		Scratchie II	Скретчи II	
-src/items.lua:479		1 in 3 chance to win 6¥		
-src/items.lua:495		No luck	Не повезло	
-src/items.lua:501		Scratchie III	Скретчи III	
-src/items.lua:504		Gain 1-4¥		
-src/items.lua:528		Copycat	Подражатель	
-src/items.lua:531		Repeat the last spell used	Повторите последнее использованное заклинание.	
-src/items.lua:541 (+1 others)		Nothing to copy!	Копировать нечего!	
-src/items.lua:544 (+1 others)		Copy!	Копировать!	
-src/items.lua:554		Repeat the last spell used, twice	Повторите последнее использованное заклинание дважды.	
-src/items.lua:573		Heal	Лечить	
-src/items.lua:576		All dice +1 ♥	Все кубики +1 ♥	
-src/items.lua:590		Healed!	Исцеление!	
+src/item_unlocks.lua:403 (+1 others)		be the goat	стань легендой	д
+src/items.lua:10		Something fell from the sky	Что-то упало с неба	д
+src/items.lua:36		Power Limit Up	Повысь лимит силы	д
+src/items.lua:39		Power Limit +1	Лимит силы +1	д
+src/items.lua:50		Power Limit +1!	Лимит силы +1!	д
+src/items.lua:55		Trinket Limit Up	Повысь лимит безделушек	д
+src/items.lua:58		Trinket Limit +1	Лимит безделушек +1	д
+src/items.lua:67		Trinket Limit +1!	Лимит безделушек +1!	д
+src/items.lua:72		Dice Limit Up	Повысь лимит кубиков	д
+src/items.lua:75		Dice Limit +1	Лимит кубиков +1	д
+src/items.lua:84		Dice Limit +1!	Лимит кубиков +1!	д
+src/items.lua:90		Coin Burst	Взрыв монеток	д
+src/items.lua:93		+300 Points per coin you own	+300 Очков за каждую твою монетку	д
+src/items.lua:107 (+1 others)		No coins!	Нет монеток!	д
+src/items.lua:113		Ghost Jar	Банка призраков	д
+src/items.lua:116		Spawn 3 ghost dice	Создает 3 призрачных кубика	д
+src/items.lua:134		Bust Shield	Баст-щит	д
+src/items.lua:137		Bust Shield On	Баст-щит включен	д
+src/items.lua:147 (+5 others)		Shield!	Щит!	д
+src/items.lua:153		Uplift	Подъем	д
+src/items.lua:156		Nudge all dice +1 pip (no loop)	+1 к значению всех кубиков (без цикла)	д
+src/items.lua:169		+1 all	+1 всем	д
+src/items.lua:174		Downshift	Спад	д
+src/items.lua:177		Nudge all dice -1 pip (no loop)	-1 к значению всех кубиков (без цикла)	д
+src/items.lua:191		-1 all	-1 всем	д
+src/items.lua:196		Clamp High	Закрепи высокие	
+src/items.lua:199		All dice above 4 become 4	Все кубики больше 4 становятся равными 4	
+src/items.lua:217		Clamp 4	Закрепи 4	
+src/items.lua:222		Money Reroll	Денежный переброс	д
+src/items.lua:225		Reroll all dice, gain +1¥ per 6 rolled	Перебрось все кубики, получи +1¥ за каждую 6	д
+src/items.lua:256 (+1 others)		Unlucky	Не повезло	д
+src/items.lua:267		Money Reroll II	Денежный переброс II	д
+src/items.lua:270		Reroll all dice, gain +2¥ per 1 rolled	Перебрось все кубики, получи +2¥ за каждую 1	д
+src/items.lua:315		Piggy Bank	Копилка	д
+src/items.lua:318		Gain 1¥ per Momentum and clear it	Получи 1¥ за каждую единицу Инерции и сбрось её	д
+src/items.lua:330		No momentum!	Нет инерции!	д
+src/items.lua:342		GOTTA GO FAST	БЫСТРО БЫСТРО	д
+src/items.lua:345		Momentum x2	Инерция x2	д
+src/items.lua:354		x2 momentum	x2 инерция	д
+src/items.lua:359		Peek	Подгляди	д
+src/items.lua:362		Gain 1¥ per die showing 1	Получи 1¥ за каждый кубик показывающий 1	д
+src/items.lua:384 (+2 others)		No 1s!	Нет единиц!	д
+src/items.lua:390		Peek II	Подгляди II	д
+src/items.lua:393		Gain 1¥ per die showing 3	Получи 1¥ за каждый кубик показывающий 3	д
+src/items.lua:415		No 3s!	Нет троек!	д
+src/items.lua:424		-1 Bust per die showing 1	-1 Баст за каждый кубик показывающий 1	д
+src/items.lua:450		Scratchie	Скретчи	д
+src/items.lua:453		Gain 0-3¥	Получи 0-3¥	д
+src/items.lua:470 (+1 others)		Nothing!	Ничего!	д
+src/items.lua:476		Scratchie II	Скретчи II	д
+src/items.lua:479		1 in 3 chance to win 6¥	1 из 3 шанс выиграть 6¥ 	д
+src/items.lua:495		No luck	Не повезло	д
+src/items.lua:501		Scratchie III	Скретчи III	д
+src/items.lua:504		Gain 1-4¥	Получи 1-4¥	д
+src/items.lua:528		Copycat	Повторюшка	д
+src/items.lua:531		Repeat the last spell used	Повтори последнее заклинание	д
+src/items.lua:541 (+1 others)		Nothing to copy!	Нечего копировать!	д
+src/items.lua:544 (+1 others)		Copy!	Скопиравано!	д
+src/items.lua:554		Repeat the last spell used, twice	Повтори последнее заклинание, дважды	д
+src/items.lua:573		Heal	Лечение	д
+src/items.lua:576		All dice +1 ♥	Всем кубики +1 ♥	д
+src/items.lua:590		Healed!	Подлечены!	д
 src/items.lua:595		Clutch	Схватить	
 src/items.lua:598		Hold your next hand	Держите следующую руку	
 src/items.lua:607 (+2 others)		Hold!	Держать!	
-src/items.lua:613		Snack Bag	Пакет для перекуса	
-src/items.lua:616		Spawn 2-3 random snack items	Появляется 2-3 случайных предмета для перекуса.	
-src/items.lua:636		${amount} foods!	${количество} продуктов!	
-src/items.lua:641		Gambling Bag	Сумка для азартных игр	
-src/items.lua:644		Send it	Отправьте это	
-src/items.lua:665		${amount} chances!	${amount} шансов!	
-src/items.lua:670		Citrus Bag	Цитрусовый пакет	
-src/items.lua:673		Spawn 5 citrus slices	Положите 5 долек цитрусовых.	
-src/items.lua:687		Citrus!	Цитрусовые!	
-src/items.lua:692		Butcher's Bag		
-src/items.lua:695		Spawn 3 pig snacks	Spawn 3 pig snacks	
-src/items.lua:708		Rare find!	Редкая находка!	
+src/items.lua:613		Snack Bag	Мешочек закусок	д
+src/items.lua:616		Spawn 2-3 random snack items	Создаёт 2-3 закуски.	д
+src/items.lua:636		${amount} foods!	${amount} вкусняшки!	д
+src/items.lua:641		Gambling Bag	Мешочек азарта	д
+src/items.lua:644		Send it	Ва-банк	д
+src/items.lua:665		${amount} chances!	${amount} шанса!	д
+src/items.lua:670		Citrus Bag	Мешочек цитрусов	д
+src/items.lua:673		Spawn 5 citrus slices	Создает 5 цитрусовых долек	д
+src/items.lua:687		Citrus!	Цитрусно!	д
+src/items.lua:692		Butcher's Bag	Мешочек мясника	д
+src/items.lua:695		Spawn 3 pig snacks	Создает 3 свиных закуски	
+src/items.lua:708		Rare find!	Редкая находка!	д
 src/items.lua:715		Meet!	Встретиться!	
-src/items.lua:721		Dumpling Bag	Пакет для пельменей	
-src/items.lua:724		Spawn 3 random dumplings	Создайте 3 случайных пельменя.	
-src/items.lua:738		3 dumplings!	3 пельменя!	
-src/items.lua:745		Caffeine Pill		
-src/items.lua:746		Make a die impatient	Заставьте кубик быть нетерпеливым	
-src/items.lua:760		Impatient!	Нетерпеливый!	
+src/items.lua:721		Dumpling Bag	Мешочек пельменей	д
+src/items.lua:724		Spawn 3 random dumplings	Создает 3 пельменя	д
+src/items.lua:738		3 dumplings!	3 пельменя!	д
+src/items.lua:745		Caffeine Pill	Кофеиновая таблетка	д
+src/items.lua:746		Make a die impatient	Делает нетерпеливым	д
+src/items.lua:760		Impatient!	Нетерпеливый!	д
 src/items.lua:765		Tab	Вкладка	
-src/items.lua:766		Make a die cycle	Создайте цикл штамповки	
-src/items.lua:780		Cycling!	Велоспорт!	
-src/items.lua:785		Bolero	Болеро	
-src/items.lua:786		Add 3 Bonus sides	Добавьте 3 бонусных гарнира	
-src/items.lua:804		Bonus Sides Added	Добавлены бонусные гарниры.	
-src/items.lua:809		Eggplant	Баклажан	
-src/items.lua:810		Add 3 Mult sides	Добавить 3 многогранных варианта	
-src/items.lua:828 (+1 others)		Mult Sides Added	Добавлено несколько сторон	
-src/items.lua:833		Mangosteen	Мангостан	
-src/items.lua:834 (+1 others)		Add 1 Mult side	Добавить 1 Многостороннюю	
-src/items.lua:858		Har Gow	Хар Гоу	
-src/items.lua:859 (+1 others)		Add 1 Golden side	Добавить 1 золотую сторону	
-src/items.lua:878		Golden side Added	Добавлена золотая сторона	
-src/items.lua:883		Pork Chop	Свиная отбивная	
-src/items.lua:884		Add 4 Pig sides	Добавить 4 куска свинины	
-src/items.lua:902		Pig Sides Added	Добавлены боковые части свинины	
-src/items.lua:907		Hubba Bubba	Хубба Бубба	
-src/items.lua:908 (+1 others)		Add 1 Debust side	Добавить 1 сторону для снятия обшивки	
-src/items.lua:926 (+1 others)		Debust Side Added	Добавлена боковая дебуст-часть	
-src/items.lua:931		Ritalin	Риталин	
-src/items.lua:932 (+1 others)		Add 1 Power side	Добавить 1 сторону питания	
-src/items.lua:951 (+1 others)		Power Side Added	Добавлена силовая сторона.	
-src/items.lua:956		Mochi	Моти	
-src/items.lua:957		Add 5 Stuck sides	Добавить 5 приклеенных сторон	
-src/items.lua:975		Stuck Sides Added	Добавлены приклеенные боковые стороны.	
+src/items.lua:766		Make a die cycle	Зацикливает кубик	д
+src/items.lua:780		Cycling!	Цикл!	д
+src/items.lua:785		Bolero	Болеро	д
+src/items.lua:786		Add 3 Bonus sides	Добавляет 3 Бонусных стороны	д
+src/items.lua:804		Bonus Sides Added	Бонус добавлен	д
+src/items.lua:809		Eggplant	Баклажан	д
+src/items.lua:810		Add 3 Mult sides	Добавляет 3 Множительных стороны	д
+src/items.lua:828 (+1 others)		Mult Sides Added	Множитель добавлен	д
+src/items.lua:833		Mangosteen	Мангостан	д
+src/items.lua:834 (+1 others)		Add 1 Mult side	Добавляет 1 Множительную сторону	д
+src/items.lua:858		Har Gow	Хар Гоу	д
+src/items.lua:859 (+1 others)		Add 1 Golden side	Добавляет 1 Золотую сторону	д
+src/items.lua:878		Golden side Added	Золотая сторона добавлена	д
+src/items.lua:883		Pork Chop	Отбивная	д
+src/items.lua:884		Add 4 Pig sides	Добавляет 4 Свиных стороны	
+src/items.lua:902		Pig Sides Added	Свиные стороны добавлены	
+src/items.lua:907		Hubba Bubba	Хубба Бубба	д
+src/items.lua:908 (+1 others)		Add 1 Debust side	Добавляет 1 сторону Дебаста	д
+src/items.lua:926 (+1 others)		Debust Side Added	Добавлена сторона Дебаста	д
+src/items.lua:931		Ritalin	Риталин	д
+src/items.lua:932 (+1 others)		Add 1 Power side	Добавляет 1 сторону Силы	д
+src/items.lua:951 (+1 others)		Power Side Added	Добавлена сторона Силы	д
+src/items.lua:956		Mochi	Моти	д
+src/items.lua:957		Add 5 Stuck sides	Добавляет 5 Липких сторон	д
+src/items.lua:975		Stuck Sides Added	Добавлены Липкие стороны	д
 src/items.lua:980		Bacon	Бекон	
-src/items.lua:981 (+1 others)		Add 1 Pig side	Добавить 1 бок свиньи	
+src/items.lua:981 (+1 others)		Add 1 Pig side	Добавляет 1 свиной бок	д
 src/items.lua:996 (+1 others)		Pig Side Added	Добавлена боковая часть свиньи	
 src/items.lua:1002 (+1 others)		Add 1 Skip side	Добавить 1 Пропустить сторону	
 src/items.lua:1017 (+1 others)		Skip Side Added	Добавлена боковая сторона для пропуска	
-src/items.lua:1022		Black Eyed Pea	Черноглазый горох	
-src/items.lua:1023		Block 1s for the next roll	Блоки 1 для следующего броска	
-src/items.lua:1040		Grape	Виноград	
-src/items.lua:1041 (+1 others)		Add 1 Bonus side	Добавить 1 бонусную сторону	
-src/items.lua:1056 (+1 others)		Bonus Side Added	Добавлен бонусный раздел	
-src/items.lua:1061		pieróg z kapusto	pieróg z kapusto	
-src/items.lua:1079		Crack Candy	Крэк Кэнди	
-src/items.lua:1080		Add 2 Power sides	Добавьте 2 стороны питания	
+src/items.lua:1022		Black Eyed Pea	Черноглазый горох	д
+src/items.lua:1023		Block 1s for the next roll	Блокирует 1 на следующем броске	д
+src/items.lua:1040		Grape	Виноградина	д
+src/items.lua:1041 (+1 others)		Add 1 Bonus side	Добавляет 1 Бонусную сторону	д
+src/items.lua:1056 (+1 others)		Bonus Side Added	Бонусная сторона добавлена	д
+src/items.lua:1061		pieróg z kapusto	перог с капустой	д
+src/items.lua:1079		Crack Candy	Крэк Кэнди	д
+src/items.lua:1080		Add 2 Power sides	Добавляет 2 стороны Силы	д
 src/items.lua:1098		Power Sides Added	Добавлены силовые элементы.	
-src/items.lua:1103		Lemon	Лимон	
-src/items.lua:1104		Nudge this die +1 pip	Сдвиньте этот кубик на +1 точку	
-src/items.lua:1119 (+1 others)		+1 pip!	+1 пип!	
-src/items.lua:1124		Lime	Лайм	
-src/items.lua:1125		Nudge this die -1 pip	Сдвиньте этот кубик на -1 точку	
-src/items.lua:1141		-1 pip!	-1 пип!	
-src/items.lua:1146		Pomelo	Помело	
-src/items.lua:1147		Flip this die to its opposite face	Переверните этот кубик на противоположную сторону.	
-src/items.lua:1162		Flipped!	Перевернуто!	
-src/items.lua:1167		Orange	Апельсин	
-src/items.lua:1168		Nudge all other dice one pip towards this die's value	Сдвиньте все остальные кубики на одно деление в сторону значения этого кубика.	
+src/items.lua:1103		Lemon	Лимон	д
+src/items.lua:1104		Nudge this die +1 pip	+1 к значению кубика	д
+src/items.lua:1119 (+1 others)		+1 pip!	+1!	д
+src/items.lua:1124		Lime	Лайм	д
+src/items.lua:1125		Nudge this die -1 pip	-1 к значению кубика	д
+src/items.lua:1141		-1 pip!	-1!	д
+src/items.lua:1146		Pomelo	Помело	д
+src/items.lua:1147		Flip this die to its opposite face	Переворачивает кубик на противоположную сторону	д
+src/items.lua:1162		Flipped!	Перевернут!	д
+src/items.lua:1167		Orange	Апельсин	д
+src/items.lua:1168		Nudge all other dice one pip towards this die's value	Сдвигает все кубики на одно значение в сторону этого	д
 src/items.lua:1196		Pull!	Тянуть!	
-src/items.lua:1201		Tumor	Опухоль	
-src/items.lua:1202		Spawn a ghost clone of this die	Создайте призрачный клон этого кубика.	
-src/items.lua:1244		Cloned!	Клонирован!	
-src/items.lua:1249		Eye	Глаз	
-src/items.lua:1250		Add 1 pip to the shown side	Добавьте 1 точку на указанную сторону.	
-src/items.lua:1272		Bonus Puke	Бонусная рвота	
-src/items.lua:1292		Mult Puke	Много рвоты	
-src/items.lua:1307		Mult Side Added	Добавлено несколько сторон	
-src/items.lua:1312		Debust Puke	Дебуст Пуке	
-src/items.lua:1332		Pig Puke	Свиная рвота	
-src/items.lua:1352		Power Puke	Сильная рвота	
-src/items.lua:1373		Stuck Puke	Застрявшая рвота	
-src/items.lua:1374		Add 1 Stuck side	Добавить 1 приклеенную сторону	
-src/items.lua:1388		Stuck Side Added	Добавлена приклеенная сторона	
-src/items.lua:1393		Money Puke	Денежная рвота	
-src/items.lua:1408		Golden Side Added	Добавлена золотая сторона	
-src/items.lua:1413		Skip Puke	Пропустить рвоту	
-src/items.lua:1433		Mirror Puke	Зеркальная рвота	
-src/items.lua:1434		Add 1 Mirror side	Добавить 1 зеркальную сторону	
-src/items.lua:1448		Mirror Side Added	Добавлена боковая зеркальная панель.	
-src/items.lua:1453		Cracked Puke	Треснувшая рвота	
-src/items.lua:1454		Add 1 Cracked side	Добавить 1 треснувшую сторону	
-src/items.lua:1468 (+2 others)		Cracked Side Added	Добавлена треснувшая сторона.	
-src/items.lua:1473		Hardy Puke	Харди Пуке	
-src/items.lua:1474		Add 1 Hardy side	Добавить 1 грань сыра	
-src/items.lua:1488		Hardy Side Added	Добавлена прочная боковая стенка.	
-src/items.lua:1493		Doom Puke	Дум Пьюк	
-src/items.lua:1494		Add 1 Doom side	Добавить 1 сторону Судьбы	
-src/items.lua:1508 (+2 others)		Doom Side Added	Добавлена сторона Doom	
-src/items.lua:1513		Bust Puke	Бюст Пьюк	
-src/items.lua:1514		Add 1 Bust side	Добавить 1 сторону бюста	
-src/items.lua:1528 (+2 others)		Bust Side Added	Добавлена боковая часть бюста.	
-src/items.lua:1533		Finger	Палец	
-src/items.lua:1534		Puke a special effect out	Выблевать спецэффект	
-src/items.lua:1558		Emetique (TM)	Эметик (™)	
-src/items.lua:1559		Puke all special effects out	Выблевать все спецэффекты	
+src/items.lua:1201		Tumor	Опухоль	д
+src/items.lua:1202		Spawn a ghost clone of this die	Создает призрачный клон кубика	д
+src/items.lua:1244		Cloned!	Клонирован!	д
+src/items.lua:1249		Eye	Глаз	д
+src/items.lua:1250		Add 1 pip to the shown side	Добавляет 1 точку на указанную сторону.	д
+src/items.lua:1272		Bonus Puke	Бонусная рвота	д
+src/items.lua:1292		Mult Puke	Множительная рвоты	д
+src/items.lua:1307		Mult Side Added	Множитель добавлен	д
+src/items.lua:1312		Debust Puke	Дебаст-рвота	д
+src/items.lua:1332		Pig Puke	Свиная рвота	д
+src/items.lua:1352		Power Puke	Сильная рвота	д
+src/items.lua:1373		Stuck Puke	Липкая рвота	д
+src/items.lua:1374		Add 1 Stuck side	Добавляет 1 Липкую сторону	д
+src/items.lua:1388		Stuck Side Added	Добавлена Липкая сторона	д
+src/items.lua:1393		Money Puke	Денежная рвота	д
+src/items.lua:1408		Golden Side Added	Добавлена Золотая сторона	д
+src/items.lua:1413		Skip Puke	Пропускная рвота	д
+src/items.lua:1433		Mirror Puke	Зеркальная рвота	д
+src/items.lua:1434		Add 1 Mirror side	Добавляет 1 Зеркальную сторону	д
+src/items.lua:1448		Mirror Side Added	Добавлена Зеркальная сторона	д
+src/items.lua:1453		Cracked Puke	Треснувшая рвота	д
+src/items.lua:1454		Add 1 Cracked side	Добавляет 1 Треснувшую сторону	д
+src/items.lua:1468 (+2 others)		Cracked Side Added	Добавлена Треснувшая сторона	д
+src/items.lua:1473		Hardy Puke	Выносливая рвота	д
+src/items.lua:1474		Add 1 Hardy side	Добавляет 1 Выносливую сторону	д
+src/items.lua:1488		Hardy Side Added	Добавлена Выносливая сторона	д
+src/items.lua:1493		Doom Puke	Суд-рвота	д
+src/items.lua:1494		Add 1 Doom side	Добавляет 1 сторону Суда	д
+src/items.lua:1508 (+2 others)		Doom Side Added	Добавлена сторона Суда	д
+src/items.lua:1513		Bust Puke	Баст-рвота	д
+src/items.lua:1514		Add 1 Bust side	Добавляет 1 Баст сторону	д
+src/items.lua:1528 (+2 others)		Bust Side Added	Добавлена Баст сторона	д
+src/items.lua:1533		Finger	Палец	д
+src/items.lua:1534		Puke a special effect out	Заставляет кубик вытошнить специальный эффект	д
+src/items.lua:1558		Emetique (TM)	Эметик (ТМ)	д
+src/items.lua:1559		Puke all special effects out	Заставляет кубик вытошнить специальный эффект	д
 src/items.lua:1599		Pig Run	Свиной загон	
 src/items.lua:1602		Pig sides score +${dynamic} points, +5 per pig rerolled this turn. Resets each turn.	Стороны, играющие за свиней, получают +${динамические} очков, +5 за каждую переброшенную свинью в этом ходу. Сбрасывается каждый ход.	
 src/items.lua:1626		pig bonus +${amount}!	Бонус для свиней +${сумма}!	
 src/items.lua:1631		Thurible	Кадиль	
-src/items.lua:1634		+${dynamic} Mult, +1 Mult each time a die is destroyed	+${dynamic} Множитель, +1 Множитель каждый раз, когда уничтожается кубик	
-src/items.lua:1648 (+1 others)		+1 mult	+1 мульт	
-src/items.lua:1661		Aging Baby	Стареющий младенец	
-src/items.lua:1664		+${dynamic} Points, -10 each time it activates	+${динамические} баллов, -10 каждый раз при активации	
-src/items.lua:1687		Growing Baby	Растущий малыш	
-src/items.lua:1690		+${dynamic} Points, +1 for each die rolled	+${динамические} баллов, +1 за каждый брошенный кубик.	
-src/items.lua:1706		+${amount} pts!	+${сумма} баллов!	
-src/items.lua:1717		Bleeding Baby	Кровоточащий младенец	
-src/items.lua:1720		+${dynamic} Mult from busts, resets on wipe	+${dynamic} Множитель от вылетов, сбрасывается при вайпе	
-src/items.lua:1750		Grudge Baby	Младенец-обида	
-src/items.lua:1753		+${dynamic} Mult, -1 Mult each time you bank	+${динамический} множитель, -1 множитель каждый раз при совершении банковских операций.	
-src/items.lua:1769		-1 mult	-1 мульт	
-src/items.lua:1781		Glass Gecko	Стеклянный геккон	
-src/items.lua:1782		+10 Mult, destroyed on Bust	+10 множитель, уничтожен при выпадении	
+src/items.lua:1634		+${dynamic} Mult, +1 Mult each time a die is destroyed	+${dynamic} Множителя, получает +1 Множитель каждый раз, когда уничтожен кубик	д
+src/items.lua:1648 (+1 others)		+1 mult	+1 Множитель	д
+src/items.lua:1661		Aging Baby	Стареющий малыш	д
+src/items.lua:1664		+${dynamic} Points, -10 each time it activates	+${dynamic} Очков, теряет 10 Очков при каждой активации	д
+src/items.lua:1687		Growing Baby	Растущий малыш	д
+src/items.lua:1690		+${dynamic} Points, +1 for each die rolled	+${dynamic} Очков, получает +1 Очко за каждый брошенный кубик.	д
+src/items.lua:1706		+${amount} pts!	+${amount} Очков!	д
+src/items.lua:1717		Bleeding Baby	Кровоточащий младенец	д
+src/items.lua:1720		+${dynamic} Mult from busts, resets on wipe	+${dynamic} Множителя, получает +1 Множитель от Бастов, сбрасывается при провале	д
+src/items.lua:1750		Grudge Baby	Младенец-обида	д
+src/items.lua:1753		+${dynamic} Mult, -1 Mult each time you bank	+${dynamic} Множителя, теряет 1 Множитель при каждом Сбережении	д
+src/items.lua:1769		-1 mult	-1 Множитель	д
+src/items.lua:1781		Glass Gecko	Стеклянный геккон	д
+src/items.lua:1782		+10 Mult, destroyed on Bust	+10 Множителя, уничтожен на Басте	д
 src/items.lua:1799		Belly	Живот	
-src/items.lua:1802		+${dynamic} Mult, gains +0.1 Mult each time a snack is eaten	+${dynamic} Мультивирует, получает +0,1 Мультив каждый раз, когда съедается закуска.	
-src/items.lua:1817		+0.1 mult	+0,1 мульт	
-src/items.lua:1835		Worm		
-src/items.lua:1838 (+1 others)		+1 Mult	+1 Мульт	
+src/items.lua:1802		+${dynamic} Mult, gains +0.1 Mult each time a snack is eaten	+${dynamic} Множителя, получает +0,1 Множитель каждый раз, когда съедена закуска	д
+src/items.lua:1817		+0.1 mult	+0,1 Множитель	д
+src/items.lua:1835		Worm	Червь	д
+src/items.lua:1838 (+1 others)		+1 Mult	+1 Множитель	д
 src/items.lua:1849		Mahjong Tile		
 src/items.lua:1852		+2 Mult	+2 Мульт	
 src/items.lua:1864		Clam	Моллюск	
@@ -1122,20 +1122,20 @@ src/states/ending_finale.lua:194		this is real	это правда
 src/states/ending_finale.lua:247	dialogue	hahaha	хахаха	
 src/states/ending_finale.lua:248	dialogue	fair enough	справедливо	
 src/states/ending_finale.lua:291		I can't do it	Я не могу этого сделать.	
-src/states/fish_market.lua:87		--  Fish Market  --	-- Рыбный рынок --	
-src/states/fish_market.lua:193		Sell Fish	Продавать рыбу	
-src/states/fish_market.lua:222		Buy Fish	Купить рыбу	
+src/states/fish_market.lua:87		--  Fish Market  --	-- Рыбный рынок --	д
+src/states/fish_market.lua:193		Sell Fish	Продать рыбу	д
+src/states/fish_market.lua:222		Buy Fish	Купить рыбу	д
 src/states/fish_market.lua:257		Next!	Следующий!	
 src/states/game.lua:124		PAUSE II	ПАУЗА II	
-src/states/game.lua:131		Continue	Продолжать	
+src/states/game.lua:131		Continue	Продолжать	д
 src/states/game.lua:135		Cannot Restart Bet Runs	Невозможно возобновить серию ставок.	
 src/states/game.lua:138		Restart	Перезапуск	
-src/states/game.lua:140		Restart the run from scratch\nand lose all gained stars?	Начать игру заново и потерять все полученные звезды?	
-src/states/game.lua:146 (+3 others)		Options	Параметры	
-src/states/game.lua:151 (+2 others)		Quit	Покидать	
-src/states/game.lua:153		Quit to menu and lose all gained stars?	Выйти в меню и потерять все полученные звезды?	
+src/states/game.lua:140		Restart the run from scratch\nand lose all gained stars?	Начать забег заново и потерять все полученные звезды?	д
+src/states/game.lua:146 (+3 others)		Options	Настройки	д
+src/states/game.lua:151 (+2 others)		Quit	Выход	д
+src/states/game.lua:153		Quit to menu and lose all gained stars?	Выйти в меню и потерять все полученные звезды?	д
 src/states/game.lua:439		secure the points\nend the turn\nrecharge character power\nclear momentum	закрепить очки\завершить ход\восстановить силу персонажа\очистить импульс	
-src/states/game.lua:510		BANK	БАНК	
+src/states/game.lua:510		BANK	СБЕРЕЧЬ	д
 src/states/game.lua:544		you must have some points to bank	Вам необходимо иметь определенное количество баллов для накопления.	
 src/states/game.lua:646		momentum: ${amount}	импульс: ${amount}	
 src/states/game.lua:651		adds extra ${momentum} points and mult	добавляет дополнительные ${momentum} очков и множитель	
@@ -1232,13 +1232,13 @@ src/states/game_setup.lua:700		A modest wager.\nWin and keep your stars plus a s
 src/states/game_setup.lua:710		Wager half your stars.\nMinimum 500 ¤\nHigher stakes, more stars.	Ставьте половину своих звезд.\nМинимальная ставка 500 ¤\nЧем выше ставка, тем больше звезд.	
 src/states/game_setup.lua:720		Wager all your stars.\nMinimum 1000 ¤\nEven more star rewards.	Ставьте все свои звезды.\nМинимальная ставка 1000 ¤\nЕще больше звездных наград.	
 src/states/game_setup.lua:731		Your soul is the wager.\nSpecial reward.\nFail and lose EVERYTHING.	В ставке — ваша душа. Особая награда. Провалитесь — и потеряете ВСЁ.	
-src/states/game_setup.lua:789		Wager	Ставка	
-src/states/game_setup.lua:881		Levels	Уровни	
+src/states/game_setup.lua:789		Wager	Ставка	д
+src/states/game_setup.lua:881		Levels	Уровни	д
 src/states/game_setup.lua:888		Wager stars to add levels,\nnext level 	Ставьте звезды, чтобы добавить уровни,\nnследующий уровень	
-src/states/game_setup.lua:1120		Difficulty	Сложность	
-src/states/game_setup.lua:1123		${stars} ¤ reward limit	${звезд} ¤ лимит вознаграждений	
+src/states/game_setup.lua:1120		Difficulty	Сложность	д
+src/states/game_setup.lua:1123		${stars} ¤ reward limit	Лимит награды ${stars} ¤	д
 src/states/gameover.lua:190		SOUL OVER	SOUL OVER	
-src/states/gameover.lua:246		Congratulations, you lost.	Поздравляю, вы проиграли.	
+src/states/gameover.lua:246		Congratulations, you lost.	Поздравляю, ты проиграла.	д
 src/states/gameover.lua:247		Better luck next time.	В следующий раз повезет больше.	
 src/states/gameover.lua:248		Maybe next time.	Возможно, в следующий раз.	
 src/states/gameover.lua:288		Bet ${BET}¤	Ставка ${BET}¤	
@@ -1340,14 +1340,14 @@ src/states/title.lua:159 (+5 others)	dialogue	so you chose to come back	Поэт
 src/states/title.lua:161 (+5 others)	dialogue	you will see, very soon	Вы скоро всё увидите	
 src/states/title.lua:215		GAMEPAD WARNING: support is still pretty rough - report bugs on steam or discord <3	Внимание: поддержка геймпада пока оставляет желать лучшего — сообщайте об ошибках в Steam или Discord <3	
 src/states/title.lua:224 (+1 others)		the world you grew up in no longer exists	Мир, в котором ты вырос, больше не существует.	
-src/states/title.lua:234		Play	Играть	
-src/states/title.lua:238		feeling lucky?	Чувствуешь себя везунчиком?	
+src/states/title.lua:234		Play	Играть	д
+src/states/title.lua:238		feeling lucky?	Может повезёт?	д
 src/states/title.lua:257 (+1 others)		Tutorial	Учебное пособие	
 src/states/title.lua:264 (+1 others)		learn to play	научить играть	
-src/states/title.lua:268		Star Guts	Звёздные Кишки	
-src/states/title.lua:272		unlock stuff	разблокировать что-либо	
+src/states/title.lua:268		Star Guts	Звёздные Кишки	д
+src/states/title.lua:272		unlock stuff	открой шняги	д
 src/states/title.lua:336 (+1 others)		game setup	настройка игры	
-src/states/title.lua:345 (+1 others)		bye?	пока?	
+src/states/title.lua:345 (+1 others)		bye?	пока?	д
 src/states/title.lua:413		brighten up	светлеть	
 src/states/title.lua:414		rest your eyes	отдохните глазами	
 src/states/title.lua:425		community chat	чат сообщества	
@@ -1363,7 +1363,7 @@ src/states/unlock.lua:117		only available in the full game <3	Доступно �
 src/states/unlock.lua:121		debug: 	отлаживать:	
 src/states/unlock.lua:141		playable character	игровой персонаж	
 src/states/unlock.lua:151		new depths	новые глубины	
-src/states/unlock.lua:190 (+3 others)		SNACK	ЗАКУСКА	
+src/states/unlock.lua:190 (+3 others)		SNACK	ЗАКУСКА	д
 src/states/unlock.lua:512 (+1 others)		ban		
 src/states/unlock.lua:561		Customise	Настроить	
 src/sync_scoreboards.lua:14		Most Stars	Наибольшее количество звёзд	
