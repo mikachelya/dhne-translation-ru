@@ -725,7 +725,7 @@ src/items.lua:2299		x2 Mult for hand containing Four Of A Kind	x2 Мульти �
 src/items.lua:2320		Pink Top	Розовый топ	
 src/items.lua:2323		x2 Mult for any Straight	Умножение на 2 для любой прямой	
 src/items.lua:2338		Absinthe	Абсент	
-src/items.lua:2341		x2 Mult for Full House	Умножить на 2 для "Фулл Хаус"	
+src/items.lua:2341		x2 Mult for Full House	Умножить на 2 для Фулл Хаус	
 src/items.lua:2356		Three Legged Pirate	Трехногий пират	
 src/items.lua:2359		x2 Mult for Three Of A Kind	Умножить на 2 для трех одинаковых предметов	
 src/items.lua:2375 (+1 others)		Two Pair Mult Cat	Две пары кошек разных пород	
