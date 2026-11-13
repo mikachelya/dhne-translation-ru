@@ -1,5 +1,5 @@
 location	extra context	en	translation	Checked
-src/are_you_sure.lua:14 (+3 others)		Are you sure?	Ты уверен?	y
+src/are_you_sure.lua:14 (+3 others)		Are you sure?	Ты уверена?	y
 src/are_you_sure.lua:15 (+13 others)		yes	да	y
 src/are_you_sure.lua:17		really?	точно?	y
 src/board_unlocks.lua:7		chill vibes	расслабляющая атмосфера	y
@@ -357,42 +357,42 @@ src/entities/guts_background.lua:5		clouds	облака	д
 src/entities/guts_background.lua:329		net	сеть	д
 src/entities/guts_background.lua:374		multiply	умножить	
 src/entities/item.lua:51		edible	съедобный	
-src/entities/item.lua:498		a to use spells	а) использовать заклинания	
-src/entities/item.lua:500		right click to use spells	Щелкните правой кнопкой мыши, чтобы использовать заклинания.	
-src/entities/item.lua:503		drag snacks over rolled dice	перетаскивание закусок по брошенным кубикам	
+src/entities/item.lua:498		a to use spells	A - использовать заклинание	д
+src/entities/item.lua:500		right click to use spells	используй заклинание правой кнопкой мыши	д
+src/entities/item.lua:503		drag snacks over rolled dice	дай закуску брошенному кубику	д
 src/entities/particle.lua:175 (+1 others)		anim	аним	
 src/entities/particle.lua:178		particle	частица	
-src/entities/power_ui.lua:94	ui	Use	Использовать	
-src/entities/power_ui.lua:127	ui	Power recharges each turn\nSelect a die with Left Click then press this button to use it	Энергия восстанавливается с каждым ходом.\nВыберите кубик щелчком левой кнопкой мыши, затем нажмите эту кнопку, чтобы использовать его.	
-src/entities/shop.lua:82		TAB: ${total} ¥	ВКЛ.: ${всего} ¥	
-src/entities/shop.lua:114		Dice $count/$limit	Количество кубиков $count/$limit	
-src/entities/shop.lua:141		Trinkets $count/$limit	Количество безделушек/лимит	
-src/entities/shop.lua:168		Actives $count/$limit	Активные $count/$limit	
-src/entities/shop.lua:187		$value¥	$value¥	
+src/entities/power_ui.lua:94	ui	Use	Используй	д
+src/entities/power_ui.lua:127	ui	Power recharges each turn\nSelect a die with Left Click then press this button to use it	Сила восстанавливается с каждым ходом.\nВыбери кубик левой кнопкой мыши, затем нажмите эту кнопку, чтобы использовать его.	д
+src/entities/shop.lua:82		TAB: ${total} ¥	ЧЕК: ${total} ¥	д
+src/entities/shop.lua:114		Dice $count/$limit	Кубики $count/$limit	д
+src/entities/shop.lua:141		Trinkets $count/$limit	Безделушки $count/$limit	д
+src/entities/shop.lua:168		Actives $count/$limit	Активки $count/$limit	д
+src/entities/shop.lua:187		$value¥	$value¥	д
 src/entities/shop.lua:200		draggables	перетаскиваемые	
-src/entities/shop.lua:1196		cant sell eternal	нельзя продать вечный	
-src/entities/shop.lua:1208		sell cursed	продавать проклятые	
-src/entities/shop.lua:1220		too many dice	слишком много кубиков	
-src/entities/shop.lua:1232		too many trinkets	слишком много безделушек	
-src/entities/shop.lua:1246		pay up	плати	
-src/entities/shop.lua:1246		take change	взять сдачу	
-src/entities/shop.lua:1309		bye	пока	
-src/entities/shop.lua:1354		Reroll - ${current_cost}¥	Перезапуск - ${current_cost}¥	
+src/entities/shop.lua:1196		cant sell eternal	нельзя продать вечное	д
+src/entities/shop.lua:1208		sell cursed	продать проклятого	д
+src/entities/shop.lua:1220		too many dice	слишком много кубиков	д
+src/entities/shop.lua:1232		too many trinkets	слишком много безделушек	д
+src/entities/shop.lua:1246		pay up	оплатить	д
+src/entities/shop.lua:1246		take change	взять сдачу	д
+src/entities/shop.lua:1309		bye	пока	д
+src/entities/shop.lua:1354		Reroll - ${current_cost}¥	Переброс - ${current_cost}¥	д
 src/entities/slot.lua:13 (+1 others)		slot	слот	
 src/entities/tape.lua:27 (+1 others)		spin	вращаться	
 src/entities/tape.lua:30		shadow	тень	
 src/entities/tape.lua:48		tape	лента	
 src/entities/tape.lua:71		waiting	ожидающий	
 src/entities/tape.lua:455		- web	- веб	
-src/entities/title_text.lua:3		DICE HAVE\nNO EYES	У игральных костей нет глаз.	
-src/entities/title_text.lua:5		DICE HAVE\nNÕ EYES	У игральных костей нет глаз.	
-src/entities/title_text.lua:6		DICE HAVE\nNÖ EYES	У игральных костей нет глаз.	
-src/entities/title_text.lua:121		DEMO	ДЕМО	
-src/item_unlocks.lua:6		Basic Spells	Базовые заклинания	
-src/item_unlocks.lua:7		beginner magic	магия для начинающих	
-src/item_unlocks.lua:15		Basic Passives	Основные пассивные навыки	
+src/entities/title_text.lua:3		DICE HAVE\nNO EYES	У КУБИКОВ НЕТ ГЛАЗ	д
+src/entities/title_text.lua:5		DICE HAVE\nNÕ EYES	У КУБИКОВ НẼТ ГЛАЗ	д
+src/entities/title_text.lua:6		DICE HAVE\nNÖ EYES	У КУБИКОВ НЁТ ГЛАЗ	д
+src/entities/title_text.lua:121		DEMO	ДЕМО	д
+src/item_unlocks.lua:6		Basic Spells	Базовые Заклинания	д
+src/item_unlocks.lua:7		beginner magic	магия для начинающих	д
+src/item_unlocks.lua:15		Basic Passives	Базовые Пассивки	д
 src/item_unlocks.lua:16		situational benefits	ситуационные преимущества	
-src/item_unlocks.lua:24		Basic Combos	Базовые комбинации	
+src/item_unlocks.lua:24		Basic Combos	Базовые Комбо	д
 src/item_unlocks.lua:25		upgrade your faves	Обновите свои любимые	
 src/item_unlocks.lua:33		Basic Snacks	Простые закуски	
 src/item_unlocks.lua:34		tasty treats for hungry dice	Вкусные угощения для голодных кубиков	
