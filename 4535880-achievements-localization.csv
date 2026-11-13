@@ -1,0 +1,53 @@
+﻿api_name (required; must match an api_name from the definitions CSV),field (name or description),english
+REAL_ESTATE,name,Real Estate
+REAL_ESTATE,description,Unlock every board
+SQUAD,name,Squad
+SQUAD,description,Unlock every character
+GUTTED,name,Gutted
+GUTTED,description,100% Star Guts
+WAKE_UP,name,Wake Up
+WAKE_UP,description,Win your first run
+POCKET_CHANGE,name,Pocket Change
+POCKET_CHANGE,description,Win with the 100 bet
+HIGH_ROLLER,name,High Roller
+HIGH_ROLLER,description,Win with the 500 bet
+WHALE,name,Whale
+WHALE,description,Win with the 1000 bet
+IS_IT_OVER,name,Is It Over?
+IS_IT_OVER,description,Beat The End
+TWINKLE,name,Twinkle
+TWINKLE,description,Hold 10000 pink stars at once
+GOLD_STANDARD,name,Gold Standard
+GOLD_STANDARD,description,Hold 10 gold stars at once
+HOG,name,Hog
+HOG,description,Get 100 pink stars in the greed intro
+SNAKE_EYES_PLUS,name,Snake Eyes Plus
+SNAKE_EYES_PLUS,description,"Roll exactly 3 dice, all ones"
+YIKES,name,Yikes
+YIKES,description,"Roll exactly 4 dice, all ones"
+BIG_OOF,name,Big Oof
+BIG_OOF,description,"Roll exactly 5 dice, all ones"
+BONANZA_IN_ONE,name,Bonanza In One
+BONANZA_IN_ONE,description,Star Bonanza on a 5-dice roll
+PURE_SKILL,name,Pure Skill
+PURE_SKILL,description,Long Straight on a 6-dice roll
+OH_YEAH,name,Oh Yeah
+OH_YEAH,description,Reach 50000 points in one level
+TOO_EASY,name,Too Easy
+TOO_EASY,description,Score 10000 points with one hand
+SELF_ESTEEM,name,Self Esteem
+SELF_ESTEEM,description,Hold middle click to flip yourself off
+CANIBALISM,name,Cannibalism?
+CANIBALISM,description,Feed a die baby to a die
+FEESH,name,Feesh!
+FEESH,description,Catch the gold fish
+NO_CHEATING,name,No Cheating
+NO_CHEATING,description,Get smitten by god
+BRAVEST_CHILD,name,Bravest Child
+BRAVEST_CHILD,description,Win double or nothing 5 times in a row
+SOULLESS,name,Soulless
+SOULLESS,description,Bet your soul and lose
+CHOSEN_ONE,name,Chosen One
+CHOSEN_ONE,description,Satisfy God
+FISHY,name,Fishy Business
+FISHY,description,Hold 500 fish at once
