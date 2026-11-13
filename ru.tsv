@@ -1,7 +1,7 @@
 location	extra context	en	ru	Checked
-gather_strings.lua:1		No		
-gather_strings.lua:1		momentum		
-gather_strings.lua:1		greed		
+gather_strings.lua:1		No		д
+gather_strings.lua:1		momentum		д
+gather_strings.lua:1		greed		д
 src/are_you_sure.lua:14 (+3 others)		Are you sure?	Ты уверена?	y
 src/are_you_sure.lua:15 (+14 others)		yes	да	y
 src/are_you_sure.lua:17		really?	точно?	y
@@ -18,7 +18,7 @@ src/boards/normal.lua:2		Lands Adrift	Затерянные земли
 src/boards/normal.lua:3		Real game begins.	Начинается настоящая игра.	y
 src/boards/normal.lua:4		you'll never want to leave	ты никогда не захочешь уйти	д
 src/boards/rift.lua:3		Decide how deep you can go.	Реши насколько глубоко ты погрузишься.	д
-src/boards/rift.lua:4		please mind the gap	Пожалуйста, обратите внимание на зазор.	
+src/boards/rift.lua:4		please mind the gap	осторожно, зазор	д
 src/boards/the_end.lua:2		The End	Конец	д
 src/boards/the_end.lua:3		This is it.	Это всё.	д
 src/boards/the_end.lua:4		thank you for visiting	спасибо за визит	д
@@ -31,7 +31,7 @@ src/character_unlocks.lua:63		god stronger warrior	сильнейший воин
 src/character_unlocks.lua:74		woof	гав	д
 src/character_unlocks.lua:84 (+1 others)	dialogue	woof?	гав?	д
 src/character_unlocks.lua:95		he's so cool	он такой крутой	д
-src/character_unlocks.lua:105		slimy	скользкий	
+src/character_unlocks.lua:105		slimy	скользкий	д
 src/character_unlocks.lua:115		she's doing well for herself	у неё всё хорошо	д
 src/character_unlocks.lua:120		Plasticine	Пластилин	д
 src/character_unlocks.lua:121		like putty in your hands\ncharacter customisation option	как пластилин в руках\nопция настройки персонажа	
@@ -42,32 +42,32 @@ src/character_unlocks.lua:146		bet your save file for the ultimate reward	рис
 src/characters/anais.lua:2		Anais	Анаис	y
 src/characters/anais.lua:38		Biblically Accurate	Библейски Точный	y
 src/characters/anais.lua:55	dialogue	Kill what you love	Убей то, что любишь	y
-src/characters/anais.lua:70	dialogue	Not yet		
-src/characters/anais.lua:72		Rise again for $cost ¤. Something will follow you back.		
+src/characters/anais.lua:70	dialogue	Not yet	Ещё нет	д
+src/characters/anais.lua:72		Rise again for $cost ¤. Something will follow you back.	Восстань за $cost ¤. Что-то вернётся вместе с тобой.	д
 src/characters/anais.lua:75 (+9 others)		Yes	Да	д
-src/characters/anais.lua:78	dialogue	Rest then		
-src/characters/anais.lua:91	dialogue	Be not afraid		
+src/characters/anais.lua:78	dialogue	Rest then	Тогда отдыхай	д
+src/characters/anais.lua:91	dialogue	Be not afraid	Оставь свой страх	д
 src/characters/business_fish.lua:2		Business Fish	Бизнес Рыба	y
 src/characters/business_fish.lua:33		Promotion	Повышение	y
 src/characters/business_fish.lua:52 (+1 others)	dialogue	You're playing shallows?	Ты играешь на мелководье?	д
 src/characters/business_fish.lua:53 (+1 others)	dialogue	This ain't it	Это не то	д
 src/characters/business_fish.lua:54 (+1 others)	dialogue	Take me into deep waters baby.	Отведи меня в глубокие воды, детка.	д
 src/characters/business_fish.lua:56	dialogue	Tuff' day in fish business	Тяжелый день в рыбном бизнесе	д
-src/characters/business_fish.lua:82	dialogue	Let's talk business		
-src/characters/business_fish.lua:84		I'll revive you for $cost ¤ and $amount dues, payable later.		
-src/characters/business_fish.lua:91	dialogue	Bad investment		
-src/characters/business_fish.lua:103	dialogue	Pleasure doing business		
+src/characters/business_fish.lua:82	dialogue	Let's talk business	Поговорим про бизнес	д
+src/characters/business_fish.lua:84		I'll revive you for $cost ¤ and $amount dues, payable later.	Я воскрешу тебя за $cost ¤ и взно в размере $amount оплачиваемый позже.	д
+src/characters/business_fish.lua:91	dialogue	Bad investment	Плохое вложение	д
+src/characters/business_fish.lua:103	dialogue	Pleasure doing business	Приятно иметь с тобой дело	д
 src/characters/cool_fish.lua:2		Cool Fish	Крутая Рыба	y
-src/characters/cool_fish.lua:34		Good Ol' Harrington		
-src/characters/cool_fish.lua:41		Winter Fit		
+src/characters/cool_fish.lua:34		Good Ol' Harrington	Старина Харрингтон	д
+src/characters/cool_fish.lua:41		Winter Fit	Зимний Наряд	д
 src/characters/cool_fish.lua:64	dialogue	Oh, this jacket?\nIt was 3000¥	А, эта куртка? Стоила 3000¥	y
 src/characters/cool_fish.lua:65	dialogue	It's from Japan yeah	Да, из Японии	y
-src/characters/cool_fish.lua:86	dialogue	Nice coins		
-src/characters/cool_fish.lua:88		I'll revive you for all your $yen ¥ and $cost ¤		
-src/characters/cool_fish.lua:95	dialogue	Uncool		
-src/characters/cool_fish.lua:108	dialogue	Stay cool		
+src/characters/cool_fish.lua:86	dialogue	Nice coins	Классные монетки	д
+src/characters/cool_fish.lua:88		I'll revive you for all your $yen ¥ and $cost ¤	Я воскрешу тебя за все твои $yen ¥ и $cost ¤	д
+src/characters/cool_fish.lua:95	dialogue	Uncool	Не круто	д
+src/characters/cool_fish.lua:108	dialogue	Stay cool	Крутота	д
 src/characters/dog.lua:2		Dog	Собака	д
-src/characters/dog.lua:34		So Fancy		
+src/characters/dog.lua:34		So Fancy	Какая Шикарная	д
 src/characters/god.lua:11	dialogue	unworthy	недостойная	д
 src/characters/god.lua:15	dialogue	fall back	отступи	д
 src/characters/god.lua:31	dialogue	begone	убирайся	д
@@ -90,7 +90,7 @@ src/characters/god.lua:253		do you have what it takes?	в тебе есть то
 src/characters/god.lua:257		you are never getting out of here	ты отсюда никогда не выберешься	д
 src/characters/god.lua:301		i always believed in you	я всегда верил в тебя	д
 src/characters/guy.lua:2		Guy	Чел	д
-src/characters/guy.lua:34		Eye Wide Open		
+src/characters/guy.lua:34		Eye Wide Open	Глаза Широко Открыты	д
 src/characters/guy.lua:52	dialogue	Reach level 7 to break free!	Достигни 7-го уровня, чтобы вырваться на свободу!	д
 src/characters/guy.lua:54	dialogue	Reach level 10 to break free!	Достигни 10-го уровня, чтобы вырваться на свободу!	д
 src/characters/guy.lua:82	dialogue	Keep riding?	Продолжишь?	д
@@ -98,20 +98,20 @@ src/characters/guy.lua:84	dialogue	I'll revive you for $cost ¤ and one passive 
 src/characters/guy.lua:90	dialogue	Live your truth	Живи свою истину	д
 src/characters/guy.lua:103	dialogue	Ride on	Вперёд!	д
 src/characters/hotdog.lua:2		Hot Dawg	Хот-Дог	y
-src/characters/hotdog.lua:66	dialogue	Hungry for more?		
-src/characters/hotdog.lua:68		I'll revive you for $cost ¤ and a bad tooth		
-src/characters/hotdog.lua:74	dialogue	More for me		
-src/characters/hotdog.lua:85	dialogue	Chew carefully		
+src/characters/hotdog.lua:66	dialogue	Hungry for more?	Все еще есть аппетит?	д
+src/characters/hotdog.lua:68		I'll revive you for $cost ¤ and a bad tooth	Я воскрешу тебя за $cost ¤ и плохой зуб	д
+src/characters/hotdog.lua:74	dialogue	More for me	Мне же больше	д
+src/characters/hotdog.lua:85	dialogue	Chew carefully	Жуй осторожно	д
 src/characters/king_fetus.lua:2		King Foetus	Король Эмбрион	y
-src/characters/king_fetus.lua:38		Prima Ballerina		
+src/characters/king_fetus.lua:38		Prima Ballerina	Прима-Балерина	д
 src/characters/king_fetus.lua:57	dialogue	Reach level 7 to escape!	Доберись до 7-го уровня, чтобы выбраться!	y
 src/characters/king_fetus.lua:58 (+1 others)	dialogue	goo goo gaa gaa	гу гу га га	y
 src/characters/king_fetus.lua:60	dialogue	Reach level 10 to escape!	Доберись до 7-го уровня, чтобы выбраться!	y
 src/characters/king_fetus.lua:80	dialogue	go more?	ещё?	y
-src/characters/king_fetus.lua:82	dialogue	revive for $cost ¤ and 1 max bust	Воскресись за $cost ¤ и 1 лимит бастов	
+src/characters/king_fetus.lua:82	dialogue	revive for $cost ¤ and 1 max bust	воскресись за $cost ¤ и 1 лимит бастов	д
 src/characters/king_fetus.lua:101	dialogue	glob gob	буль буль	д
 src/characters/liz.lua:2 (+1 others)		Liz	Лиз	y
-src/characters/liz.lua:30		Off Duty		
+src/characters/liz.lua:30		Off Duty	Вне Службы	
 src/characters/liz.lua:37		Halo	Нимб	y
 src/characters/liz.lua:71	dialogue	Hey, my love	Привет, любовь	y
 src/characters/liz.lua:72	dialogue	Remember, ${count} levels and you're out of here!	Помни, ${count} уровней, и ты свободна!	y
@@ -133,7 +133,7 @@ src/characters/shirin.lua:179	dialogue	Feeling lucky?	Думаешь повез�
 src/characters/shirin.lua:181	dialogue	I'll let you toss a coin to revive you for $cost ¤	Я дам тебе бросить монетку чтобы воскреситься за $cost ¤	y
 src/characters/shirin.lua:187	dialogue	RIP	Покойся с миром	y
 src/characters/shirin.lua:197	dialogue	Bad luck...	Не повезло...	y
-src/characters/shirin.lua:205	dialogue	Lucky!		
+src/characters/shirin.lua:205	dialogue	Lucky!	Повезло!	д
 src/characters/tooth_fairy.lua:2		Tooth Fairy	Зубная Фея	y
 src/characters/tooth_fairy.lua:40	dialogue	Reach level 7 and I'll leave your teeth alone.	Достигни 7-го уровня и я оставлю твои зубы в покое.	y
 src/characters/tooth_fairy.lua:42	dialogue	Reach level 10 and I'll leave your teeth alone.	Достигни 10-го уровня и я оставлю твои зубы в покое.	y
@@ -147,7 +147,7 @@ src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BAN
 src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	У тебя есть ${TURNS} ходов, чтобы достичь цели.\nСБЕРЕЖЕНИЕ очков завершает твой ход.	д
 src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	Чем больше Комбо, тем больше награда.	д
 src/characters/tutorial_character.lua:69		<- See what combos are available up here	<- Здесь ты можешь увидеть доступные Комбо	д
-src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Бросай пустые кубики и продолжай!	
+src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Брось пустые кубики и продолжай!	д
 src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select	И ещё, ты можешь выбрать область зажав левую кнопку мыши.	д
 src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	Каждый раз как ты защитываешь Комбо, ты получаешь инерцию.	д
 src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score	Инерция дает дополнительные Очки и Множитель ко следующему счету.	д
@@ -192,13 +192,13 @@ src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	
 src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	Увидимся в настоящей игре.	д
 src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	Помни, удача играет роль. Здравый смысл играет бо́льшую.	д
 src/characters/wizard.lua:2		Wizard	Волшебник	д
-src/characters/wizard.lua:43		Soucerer		
-src/characters/wizard.lua:50		Archmogus		
+src/characters/wizard.lua:43		Soucerer	Чародей	д
+src/characters/wizard.lua:50		Archmogus	Архимогус	д
 src/characters/wizard.lua:68	dialogue	Get to level 7, and you're free.	Доберись до 7-го уровня, и ты свободна.	д
 src/characters/wizard.lua:71	dialogue	Get to level 10, and you're free.	Доберись до 10-го уровня, и ты свободна.	д
-src/characters/wizard.lua:192	dialogue	Another chance buddy?		
+src/characters/wizard.lua:192	dialogue	Another chance buddy?	Еще один шанс подружка?	д
 src/characters/wizard.lua:194	dialogue	I'll revive you for $cost ¤ and difficulty increase.	Я тебя воскрешу за $cost ¤ и добавку к сожности.  	y
-src/characters/wizard.lua:200	dialogue	Hmpf.		
+src/characters/wizard.lua:200	dialogue	Hmpf.	Гм.	д
 src/characters/wizard.lua:217	dialogue	Tada!	Та-да!	д
 src/coloured_text.lua:8 (+116 others)		bust	баст	д
 src/coloured_text.lua:12		wipe	провал	д
@@ -206,7 +206,7 @@ src/coloured_text.lua:14		instant	полный	д
 src/coloured_text.lua:16		turn	ход	д
 src/coloured_text.lua:20		turns	хоыд	д
 src/coloured_text.lua:24 (+2 others)		bank	сберечь	д
-src/coloured_text.lua:27 (+2 others)		stars		
+src/coloured_text.lua:27 (+2 others)		stars	звёзды	д
 src/coloured_text.lua:31 (+5 others)		points	очки	д
 src/coloured_text.lua:35 (+9 others)		mult	множитель	д
 src/coloured_text.lua:39 (+8 others)		bonus	бонус	д
@@ -253,7 +253,7 @@ src/endings/guy.lua:158	dialogue	have you looked into a mirror recently?	ты н
 src/endings/guy.lua:159	dialogue	what do you see?	что ты видишь?	д
 src/endings/guy.lua:160	dialogue	i see my bravest child	я вижу своего самого храброго ребёнка	д
 src/endings/hotdog.lua:29		absolutely hit that shit	точно заткнись!	
-src/endings/hotdog.lua:74	dialogue	delicious	вкусный	
+src/endings/hotdog.lua:74	dialogue	delicious	вкуснота	д
 src/endings/hotdog.lua:75	dialogue	finally some good fucking food	наконец хоть какая-то, блин, хорошая еда	д
 src/endings/king_fetus.lua:52		nope nope nope	нет нет нет	д
 src/endings/liz.lua:129	dialogue	how did you do?	как у тебя всё прошло?	д
@@ -267,7 +267,7 @@ src/endings/party.lua:131	dialogue	Unlock the next Depth from Star Guts for a bi
 src/endings/tooth_fairy.lua:129	dialogue	so the tooth fairy smokes now	зубная фея теперь курит	д
 src/endings/tooth_fairy.lua:130	dialogue	i knew it	я так и знала	д
 src/endings/tooth_fairy.lua:132	dialogue	i know everything	я знаю всё	д
-src/entities/bad_teeth_mode.lua:35		Bad Teeth: ${count}/${limit}	Плохие Зубы: ${count}/${limit}	
+src/entities/bad_teeth_mode.lua:35		Bad Teeth: ${count}/${limit}	Плохие Зубы: ${count}/${limit}	д
 src/entities/buttons_clump.lua:107 (+1 others)		Score	Засчитать	д
 src/entities/buttons_clump.lua:108		Scoring adds points and clears all dice in the combo	Засяет добавляет очки и обнуляет все кубики в Комбо	д
 src/entities/buttons_clump.lua:110		Select All	Выбрать Все	д
@@ -309,12 +309,12 @@ src/entities/dice_peek.lua:259 (+1 others)		Scores x	Засчитывает x	д
 src/entities/dice_peek.lua:260		Scores multiple times.	Засчитывается несколько раз.	д
 src/entities/dice_peek.lua:273		Dice live forever	Кубики живут вечно	д
 src/entities/dice_peek.lua:273		Dice are mortal	Кубики смертны	д
-src/entities/dice_pick.lua:7		Swap Dice	Обменяйте кости	
-src/entities/dice_pick.lua:20		Swap	Менять	
-src/entities/dice_pick.lua:28		Skip	Пропускать	
+src/entities/dice_pick.lua:7		Swap Dice	Обменяйть кости	д
+src/entities/dice_pick.lua:20		Swap	Обменять	д
+src/entities/dice_pick.lua:28		Skip	Пропустить	д
 src/entities/die_baby.lua:7		Die Baby	Умри, малыш	
 src/entities/dupe_baby.lua:7		Dupe Baby	Поддельный ребенок	
-src/entities/dupe_baby.lua:58		Duplicated!	Дубликат получен!	
+src/entities/dupe_baby.lua:58		Duplicated!	Дубликат!	д
 src/entities/encounter_timeline.lua:235		VICTORY	ПОБЕДА	д
 src/entities/encounter_timeline.lua:242		FIGHT	БОЙ	д
 src/entities/encounter_timeline.lua:280		Goal Reached	Цель Достигнута	д
@@ -323,7 +323,7 @@ src/entities/encounter_timeline.lua:582		${to_go} TO GO	ОСТАЛОСЬ ${to_go
 src/entities/eye_baby.lua:7		Eye Baby	Глаз малыша	
 src/entities/fish_spawner.lua:215		Cool Fish Available	Лоступна Крутая Рыба	д
 src/entities/god_shop.lua:68		CHOOSE	ВЫБИРАЙ	д
-src/entities/god_shop.lua:477		reroll %d ¤	переброс %d ¤	
+src/entities/god_shop.lua:477		reroll %d ¤	переброс %d ¤	д
 src/entities/item.lua:498		a to use spells	A - использовать заклинание	д
 src/entities/item.lua:500		right click to use spells	используй заклинание правой кнопкой мыши	д
 src/entities/item.lua:503		drag snacks over rolled dice	дай закуску брошенному кубику	д
@@ -349,22 +349,22 @@ src/entities/title_text.lua:121		DEMO	ДЕМО	д
 src/item_unlocks.lua:6		Basic Spells	Базовые Заклинания	д
 src/item_unlocks.lua:7		beginner magic	магия для начинающих	д
 src/item_unlocks.lua:15		Basic Passives	Базовые Пассивки	д
-src/item_unlocks.lua:16		situational benefits	ситуационные преимущества	
+src/item_unlocks.lua:16		situational benefits	ситуационные преимущества	д
 src/item_unlocks.lua:24		Basic Combos	Базовые Комбо	д
-src/item_unlocks.lua:25		upgrade your faves	Обновите свои любимые	
-src/item_unlocks.lua:33		Basic Snacks	Простые закуски	
-src/item_unlocks.lua:34		tasty treats for hungry dice	Вкусные угощения для голодных кубиков	
-src/item_unlocks.lua:42		Basic Quests	Основные задания	
-src/item_unlocks.lua:53		Parenting	Воспитание детей	
-src/item_unlocks.lua:54		life comes at you fast	Жизнь быстро преподносит сюрпризы.	
+src/item_unlocks.lua:25		upgrade your faves	улучши любимое	д
+src/item_unlocks.lua:33		Basic Snacks	Простые закуски	д
+src/item_unlocks.lua:34		tasty treats for hungry dice	вкусняшки для голодных кубиков	д
+src/item_unlocks.lua:42		Basic Quests	Базовые Квесты	д
+src/item_unlocks.lua:53		Parenting	Воспитание	д
+src/item_unlocks.lua:54		life comes at you fast	жизнь преподносит сюрпризы	д
 src/item_unlocks.lua:61		Hold	Держать	
 src/item_unlocks.lua:62		HOLD!!!	ДЕРЖАТЬ!!!	
 src/item_unlocks.lua:72		Numerology	Нумерология	
-src/item_unlocks.lua:73		special numbers are special	особые числа — это особые числа.	
-src/item_unlocks.lua:81		More Spells	Больше заклинаний	
-src/item_unlocks.lua:82		advanced magic	продвинутая магия	
-src/item_unlocks.lua:90		More Snacks	Больше закусок	
-src/item_unlocks.lua:91		get some variety in your diet	Разнообразьте свой рацион питания.	
+src/item_unlocks.lua:73		special numbers are special	особые числа — особые	д
+src/item_unlocks.lua:81		More Spells	Больше Заклинаний	д
+src/item_unlocks.lua:82		advanced magic	продвинутая магия	д
+src/item_unlocks.lua:90		More Snacks	Больше Закусок	д
+src/item_unlocks.lua:91		get some variety in your diet	больше разнообразьте в твоей диете	д
 src/item_unlocks.lua:100		Diet Culture	Культура питания	
 src/item_unlocks.lua:101		its real bad for you	Это очень вредно для тебя.	
 src/item_unlocks.lua:108		All In	Все в сборе	
